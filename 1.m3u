@@ -1,4 +1,41 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="苏州源",CCTV-1 综合
+http://222.92.7.170:3333/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="苏州源",CCTV-2 财经
+http://222.92.7.170:3333/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="苏州源",CCTV-3 综艺
+http://222.92.7.170:3333/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="苏州源",CCTV-4 中文国际
+http://222.92.7.170:3333/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="苏州源",CCTV-5 体育
+http://222.92.7.170:3333/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="苏州源",CCTV-6 电影
+http://222.92.7.170:3333/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="苏州源",CCTV-7 国防军事
+http://222.92.7.170:3333/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="苏州源",CCTV-8 电视剧
+http://222.92.7.170:3333/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="苏州源",CCTV-9 纪录
+http://222.92.7.170:3333/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="苏州源",CCTV-10 科教
+http://222.92.7.170:3333/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCT2" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="苏州源",CCTV-12 社会与法
+http://222.92.7.170:3333/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="苏州源",CCTV-14 少儿
+http://222.92.7.170:3333/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="苏州源",北京卫视
+http://222.92.7.170:3333/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="苏州源",湖南卫视
+http://222.92.7.170:3333/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="苏州源",东方卫视
+http://222.92.7.170:3333/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="苏州源",江苏卫视
+http://222.92.7.170:3333/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="苏州源",浙江卫视
+http://222.92.7.170:3333/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="苏州4K" tvg-name="苏州4K" tvg-logo="https://live.fanmingming.com/tv/苏州4K.png" group-title="苏州源",苏州4K
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="无锡源",CCTV1
 http://121.238.31.136:12999/hls/1/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="无锡源",CCTV2
@@ -47,43 +84,6 @@ http://121.238.31.136:12999/hls/17/index.m3u8
 http://121.238.31.136:12999/hls/19/index.m3u8
 #EXTINF:-1 tvg-name="江苏公共新闻" tvg-logo="https://live.fanmingming.com/tv/江苏公共新闻.png" group-title="无锡源",江苏公共新闻
 http://121.238.31.136:12999/hls/20/index.m3u8
-
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="苏州源",CCTV-1 综合
-http://222.92.7.170:3333/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="苏州源",CCTV-2 财经
-http://222.92.7.170:3333/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="苏州源",CCTV-3 综艺
-http://222.92.7.170:3333/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="苏州源",CCTV-4 中文国际
-http://222.92.7.170:3333/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="苏州源",CCTV-5 体育
-http://222.92.7.170:3333/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="苏州源",CCTV-6 电影
-http://222.92.7.170:3333/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="苏州源",CCTV-7 国防军事
-http://222.92.7.170:3333/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="苏州源",CCTV-8 电视剧
-http://222.92.7.170:3333/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="苏州源",CCTV-9 纪录
-http://222.92.7.170:3333/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="苏州源",CCTV-10 科教
-http://222.92.7.170:3333/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCT2" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="苏州源",CCTV-12 社会与法
-http://222.92.7.170:3333/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="苏州源",CCTV-14 少儿
-http://222.92.7.170:3333/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="苏州源",北京卫视
-http://222.92.7.170:3333/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="苏州源",湖南卫视
-http://222.92.7.170:3333/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="苏州源",东方卫视
-http://222.92.7.170:3333/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="苏州源",江苏卫视
-http://222.92.7.170:3333/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="苏州源",浙江卫视
-http://222.92.7.170:3333/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="苏州4K" tvg-name="苏州4K" tvg-logo="https://live.fanmingming.com/tv/苏州4K.png" group-title="苏州源",苏州4K
-http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="上海源",五星体育
 http://180.158.146.27:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
