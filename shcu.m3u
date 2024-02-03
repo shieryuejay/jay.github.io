@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="河南" tvg-logo="https://live.fanmingming.com/tv/河南.png",河南
-undefined
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV1
 http://123.14.83.38:8888/hls/1/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV2
@@ -103,8 +101,6 @@ http://123.14.83.38:8888:4021/rtp/225.1.4.141:1177
 http://123.14.83.38:8888:4021/rtp/225.1.4.142:1178
 #EXTINF:-1 tvg-name="河南都市频道" tvg-logo="https://live.fanmingming.com/tv/河南都市频道.png",河南都市频道
 http://123.14.83.38:8888:4021/rtp/225.1.4.52:1081
-#EXTINF:-1 tvg-name="呼和浩特" tvg-logo="https://live.fanmingming.com/tv/呼和浩特.png",呼和浩特
-undefined
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV1
 http://1.30.18.218:20080/hls/1/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV2
@@ -263,8 +259,6 @@ http://1.30.18.218:20080/hls/130/index.m3u8
 http://1.30.18.218:20080/hls/140/index.m3u8
 #EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://live.fanmingming.com/tv/CGTN英语.png",CGTN英语
 http://1.30.18.218:20080/hls/1142/index.m3u8
-#EXTINF:-1 tvg-name="太原" tvg-logo="https://live.fanmingming.com/tv/太原.png",太原
-undefined
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV1
 http://183.185.136.159:9999/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV2
@@ -955,8 +949,7 @@ http://121.19.134.183:808/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
 http://121.19.134.183:808/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="中国交通" tvg-logo="https://live.fanmingming.com/tv/中国交通.png",中国交通
 http://121.19.134.183:808/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="太原2" tvg-logo="https://live.fanmingming.com/tv/太原2.png",太原2
-undefined
+
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV1
 http://118.81.107.45:9999/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV2
