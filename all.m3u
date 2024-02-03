@@ -1,10 +1,4 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="关注下方" tvg-logo="https://live.fanmingming.com/tv/关注下方.png" group-title="防失联",关注下方
-http://180.158.146.27:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="公众号" tvg-logo="https://live.fanmingming.com/tv/公众号.png" group-title="防失联",公众号
-http://180.158.146.27:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="码点小干货" tvg-logo="https://live.fanmingming.com/tv/码点小干货.png" group-title="防失联",码点小干货
-http://180.158.146.27:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV1-综合" tvg-logo="https://live.fanmingming.com/tv/CCTV1-综合.png" group-title="央卫",CCTV1-综合
 http://180.158.146.27:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV2-财经" tvg-logo="https://live.fanmingming.com/tv/CCTV2-财经.png" group-title="央卫",CCTV2-财经
