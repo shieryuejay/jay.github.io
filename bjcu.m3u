@@ -350,7 +350,7 @@ http://1.30.18.218:20080/hls/130/index.m3u8
 http://1.30.18.218:20080/hls/140/index.m3u8
 #EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://live.fanmingming.com/tv/CGTN英语.png", group-title="呼和浩特源",CGTN英语
 http://1.30.18.218:20080/hls/1142/index.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", group-title="河南源",CCTV1
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", group-title="太原源",CCTV1
 http://183.185.136.159:9999/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png", group-title="太原源",CCTV2
 http://183.185.136.159:9999/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
