@@ -298,6 +298,77 @@ http://27.185.2.92:9901/hls/72/index.m3u8
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="石家庄源",世界地理
 http://27.185.2.92:9901/hls/73/index.m3u8
 
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="嘉峪关源",CETV1
+http://60.164.228.34:4040/udp/239.255.30.90:8231
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="嘉峪关源",CCTV1
+http://60.164.228.34:4040/udp/239.255.29.40:8231
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="嘉峪关源",CCTV1
+http://60.164.228.34:4040/udp/239.255.30.1:8231
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="嘉峪关源",CCTV1
+http://60.164.228.34:4040/udp/239.255.30.101:8231
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="嘉峪关源",CCTV2
+http://60.164.228.34:4040/udp/239.255.30.179:8231
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="嘉峪关源",CCTV2
+http://60.164.228.34:4040/udp/239.255.30.2:8231
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="嘉峪关源",CCTV3
+http://60.164.228.34:4040/udp/239.255.29.12:8231
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="嘉峪关源",CCTV3
+http://60.164.228.34:4040/udp/239.255.30.185:8231
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="嘉峪关源",CCTV4
+http://60.164.228.34:4040/udp/239.255.30.3:8231
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="嘉峪关源",CCTV4
+http://60.164.228.34:4040/udp/239.255.30.83:8231
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="嘉峪关源",CCTV5
+http://60.164.228.34:4040/udp/239.255.29.13:8231
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="嘉峪关源",CCTV5
+http://60.164.228.34:4040/udp/239.255.30.186:8231
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="嘉峪关源",CCTV5
+http://60.164.228.34:4040/udp/239.255.30.199:8231
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="嘉峪关源",CCTV5
+http://60.164.228.34:4040/udp/239.255.30.184:8231
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="嘉峪关源",CCTV6
+http://60.164.228.34:4040/udp/239.255.29.14:8231
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="嘉峪关源",CCTV6
+http://60.164.228.34:4040/udp/239.255.30.187:8231
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="嘉峪关源",CCTV7
+http://60.164.228.34:4040/udp/239.255.30.178:8231
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="嘉峪关源",CCTV7
+http://60.164.228.34:4040/udp/239.255.30.4:8231
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="嘉峪关源",CCTV8
+http://60.164.228.34:4040/udp/239.255.29.15:8231
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="嘉峪关源",CCTV8
+http://60.164.228.34:4040/udp/239.255.30.188:8231
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="嘉峪关源",CCTV9
+http://60.164.228.34:4040/udp/239.255.30.180:8231
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="嘉峪关源",CCTV9
+http://60.164.228.34:4040/udp/239.255.30.74:8231
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="嘉峪关源",CCTV10
+http://60.164.228.34:4040/udp/239.255.30.10:8231
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="嘉峪关源",CCTV10
+http://60.164.228.34:4040/udp/239.255.30.181:8231
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="嘉峪关源",CCTV11
+http://60.164.228.34:4040/udp/239.255.30.62:8231
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="嘉峪关源",CCTV11
+http://60.164.228.34:4040/udp/239.255.30.7:8231
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="嘉峪关源",CCTV12
+http://60.164.228.34:4040/udp/239.255.30.182:8231
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="嘉峪关源",CCTV12
+http://60.164.228.34:4040/udp/239.255.30.8:8231
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="嘉峪关源",CCTV13
+http://60.164.228.34:4040/udp/239.255.29.28:8231
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="嘉峪关源",CCTV13
+http://60.164.228.34:4040/udp/239.255.30.9:8231
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="嘉峪关源",CCTV14
+http://60.164.228.34:4040/udp/239.255.30.183:8231
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="嘉峪关源",CCTV15
+http://60.164.228.34:4040/udp/239.255.30.68:8231
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="嘉峪关源",CCTV16
+http://60.164.228.34:4040/udp/239.255.30.88:8231
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="嘉峪关源",CCTV17
+http://60.164.228.34:4040/udp/239.255.30.96:8231
+
+
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="上海源",CCTV-1 综合
 http://180.158.146.27:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="上海源",CCTV-2 财经
