@@ -452,16 +452,6 @@ http://116.237.248.97:7777/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=
 http://116.237.248.97:7777/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="特区频道",凤凰资讯
-http://113.117.74.28:8081/hls/37/index.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="特区频道",凤凰资讯
-http://113.117.74.18:8081/hls/36/index.m3u8
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png" group-title="特区频道",凤凰香港
-http://113.117.74.12:8081/hls/38/index.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="特区频道",凤凰中文
-http://113.117.74.18:8081/hls/37/index.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="特区频道",凤凰中文
-http://113.117.74.17:8081/hls/37/index.m3u8
 #EXTINF:-1 tvg-name="AEW" tvg-logo="https://live.fanmingming.com/tv/AEW.png" group-title="特区频道",AEW
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 #EXTINF:-1 tvg-name="足球1" tvg-logo="https://live.fanmingming.com/tv/足球1.png" group-title="特区频道",足球1
@@ -497,13 +487,7 @@ http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2477/index.m3u8
 #EXTINF:-1 tvg-name="天空体育 板球" tvg-logo="https://live.fanmingming.com/tv/天空体育 板球.png" group-title="特区频道",天空体育 板球
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7343/index.m3u8
 #EXTINF:-1 tvg-name="安徽体育" tvg-logo="https://live.fanmingming.com/tv/安徽体育.png" group-title="特区频道",安徽体育
-http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv
-#EXTINF:-1 tvg-name="安徽体育" tvg-logo="https://live.fanmingming.com/tv/安徽体育.png" group-title="特区频道",安徽体育
 http://321257.cn:8888/udp/238.1.79.41:4440
-#EXTINF:-1 tvg-name="24小时体育" tvg-logo="https://live.fanmingming.com/tv/24小时体育.png" group-title="特区频道",24小时体育
-http://111.20.35.103:6610/yinhe/2/ch00000090990000001594/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=?世界杯WorldCup
-#EXTINF:-1 tvg-name="BRTV体育休闲" tvg-logo="https://live.fanmingming.com/tv/BRTV体育休闲.png" group-title="特区频道",BRTV体育休闲
-http://111.20.35.103:6610/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 #EXTINF:-1 tvg-name="MBC体育" tvg-logo="https://live.fanmingming.com/tv/MBC体育.png" group-title="特区频道",MBC体育
 http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3u8
 #EXTINF:-1 tvg-name="天空体育 格斗" tvg-logo="https://live.fanmingming.com/tv/天空体育 格斗.png" group-title="特区频道",天空体育 格斗
