@@ -552,6 +552,79 @@ http://183.185.136.159:9999/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png", group-title="太原源",风云剧场
 http://183.185.136.159:9999/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="娄底源",CCTV1
+http://42.49.34.55:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="娄底源",CCTV2
+http://42.49.34.55:9901/tsfile/live/0001_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="娄底源",CCTV3
+http://42.49.34.55:9901/tsfile/live/0001_3.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="娄底源",CCTV4
+http://42.49.34.55:9901/tsfile/live/0001_4.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="娄底源",CCTV5
+http://42.49.34.55:9901/tsfile/live/0001_5.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="娄底源",CCTV6
+http://42.49.34.55:9901/tsfile/live/0001_6.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="娄底源",CCTV7
+http://42.49.34.55:9901/tsfile/live/0001_7.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="娄底源",CCTV8
+http://42.49.34.55:9901/tsfile/live/0001_8.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="娄底源",CCTV9
+http://42.49.34.55:9901/tsfile/live/0001_9.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="娄底源",CCTV10
+http://42.49.34.55:9901/tsfile/live/0001_10.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="娄底源",CCTV11
+http://42.49.34.55:9901/tsfile/live/0001_11.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="娄底源",CCTV12
+http://42.49.34.55:9901/tsfile/live/0001_12.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="娄底源",CCTV13
+http://42.49.34.55:9901/tsfile/live/0001_13.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="娄底源",CCTV14
+http://42.49.34.55:9901/tsfile/live/0001_14.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="娄底源",CCTV15
+http://42.49.34.55:9901/tsfile/live/0001_15.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTVNEWS" tvg-logo="https://live.fanmingming.com/tv/CCTVNEWS.png" group-title="娄底源",CCTVNEWS
+http://42.49.34.55:9901/tsfile/live/0001_16.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="娄底源",CCTV17
+http://42.49.34.55:9901/tsfile/live/0001_17.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="娄底源",CCTV5+
+http://42.49.34.55:9901/tsfile/live/0001_17.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="娄底源",湖南卫视
+http://42.49.34.55:9901/tsfile/live/0001_19.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="娄底源",北京卫视
+http://42.49.34.55:9901/tsfile/live/0001_22.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="娄底源",山东卫视
+http://42.49.34.55:9901/tsfile/live/0001_25.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="娄底源",贵州卫视
+http://42.49.34.55:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="娄底源",广西卫视
+http://42.49.34.55:9901/tsfile/live/0001_27.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="娄底源",浙江卫视
+http://42.49.34.55:9901/tsfile/live/0001_28.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="娄底源",河北卫视
+http://42.49.34.55:9901/tsfile/live/0001_29.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="娄底源",河南卫视
+http://42.49.34.55:9901/tsfile/live/0001_30.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="娄底源",江苏卫视
+http://42.49.34.55:9901/tsfile/live/0001_31.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="娄底源",安徽卫视
+http://42.49.34.55:9901/tsfile/live/0001_32.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="娄底源",广东卫视
+http://42.49.34.55:9901/tsfile/live/0001_33.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="娄底源",东方卫视
+http://42.49.34.55:9901/tsfile/live/0001_34.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="娄底源",辽宁卫视
+http://42.49.34.55:9901/tsfile/live/0001_35.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://live.fanmingming.com/tv/湖南都市.png" group-title="娄底源",湖南都市
+http://42.49.34.55:9901/tsfile/live/0001_20.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://live.fanmingming.com/tv/湖南经视.png" group-title="娄底源",湖南经视
+http://42.49.34.55:9901/tsfile/live/0001_21.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="娄底源",金鹰纪实
+http://42.49.34.55:9901/tsfile/live/0001_23.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="潇湘电影" tvg-logo="https://live.fanmingming.com/tv/潇湘电影.png" group-title="娄底源",潇湘电影
+http://42.49.34.55:9901/tsfile/live/0001_24.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="娄底源",金鹰卡通
+http://42.49.34.55:9901/tsfile/live/0001_26.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", group-title="保定源",CCTV1
 http://121.19.134.200:808/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
