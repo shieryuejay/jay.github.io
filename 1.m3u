@@ -35,14 +35,6 @@ http://222.92.7.170:3333/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 http://222.92.7.170:3333/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="苏州4K" tvg-name="苏州4K" tvg-logo="https://live.fanmingming.com/tv/苏州4K.png" group-title="苏州源",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="泰州新闻" tvg-logo="https://live.fanmingming.com/tv/泰州新闻.png" group-title="苏州源",泰州新闻
-http://222.190.211.44:8866/rtp/239.49.9.20:6000
-#EXTINF:-1 tvg-name="泰州经济" tvg-logo="https://live.fanmingming.com/tv/泰州经济.png" group-title="苏州源",泰州经济
-http://222.190.211.44:8866/rtp/239.49.1.100:6000
-#EXTINF:-1 tvg-name="泰州影视" tvg-logo="https://live.fanmingming.com/tv/泰州影视.png" group-title="苏州源",泰州影视
-http://222.190.211.44:8866/rtp/239.49.1.101:6000
-
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="无锡源",CCTV1
 http://121.238.31.136:12999/hls/1/index.m3u8
@@ -92,6 +84,19 @@ http://121.238.31.136:12999/hls/17/index.m3u8
 http://121.238.31.136:12999/hls/19/index.m3u8
 #EXTINF:-1 tvg-name="江苏公共新闻" tvg-logo="https://live.fanmingming.com/tv/江苏公共新闻.png" group-title="无锡源",江苏公共新闻
 http://121.238.31.136:12999/hls/20/index.m3u8
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="泰州新闻" tvg-logo="https://live.fanmingming.com/tv/泰州新闻.png" group-title="苏州源",泰州新闻
+http://222.190.211.44:8866/rtp/239.49.9.20:6000
+#EXTINF:-1 tvg-name="泰州经济" tvg-logo="https://live.fanmingming.com/tv/泰州经济.png" group-title="苏州源",泰州经济
+http://222.190.211.44:8866/rtp/239.49.1.100:6000
+#EXTINF:-1 tvg-name="泰州影视" tvg-logo="https://live.fanmingming.com/tv/泰州影视.png" group-title="苏州源",泰州影视
+http://222.190.211.44:8866/rtp/239.49.1.101:6000
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="苏州源",CGTN
+http://110.81.206.138:50080/tsfile/live/23016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="苏州源",CGTN
+http://222.211.199.219:808/hls/37/index.m3u8
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="苏州源",CGTN
+http://219.146.90.158:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="上海源",五星体育
 http://180.158.146.27:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
