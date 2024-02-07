@@ -1699,3 +1699,55 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 group-title="国际" tvg-id="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="joevess",,CGTN阿语
 https://livear.cgtn.com/1000a/prog_index.m3u8
 
+#EXTINF:-1 tvg-name="AEW" tvg-logo="https://live.fanmingming.com/tv/AEW.png" group-title="特区频道",AEW
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#EXTINF:-1 tvg-name="足球1" tvg-logo="https://live.fanmingming.com/tv/足球1.png" group-title="特区频道",足球1
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:-1 tvg-name="足球2" tvg-logo="https://live.fanmingming.com/tv/足球2.png" group-title="特区频道",足球2
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 tvg-name="足球3" tvg-logo="https://live.fanmingming.com/tv/足球3.png" group-title="特区频道",足球3
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+#EXTINF:-1 tvg-name="足球4" tvg-logo="https://live.fanmingming.com/tv/足球4.png" group-title="特区频道",足球4
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://live.fanmingming.com/tv/纬来体育.png" group-title="特区频道",纬来体育
+https://cloud.yumixiu768.com/tmp/123.m3u8
+#EXTINF:-1 tvg-name="辽宁-体育" tvg-logo="https://live.fanmingming.com/tv/辽宁-体育.png" group-title="特区频道",辽宁-体育
+http://42.176.185.28:9901/tsfile/live/1007_1.m3u8
+#EXTINF:-1 tvg-name="欧洲体育2" tvg-logo="https://live.fanmingming.com/tv/欧洲体育2.png" group-title="特区频道",欧洲体育2
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12048/index.m3u8
+#EXTINF:-1 tvg-name="欧洲体育1" tvg-logo="https://live.fanmingming.com/tv/欧洲体育1.png" group-title="特区频道",欧洲体育1
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/141/index.m3u8
+#EXTINF:-1 tvg-name="极限运动" tvg-logo="https://live.fanmingming.com/tv/极限运动.png" group-title="特区频道",极限运动
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/144/index.m3u8
+#EXTINF:-1 tvg-name="俄罗斯体育" tvg-logo="https://live.fanmingming.com/tv/俄罗斯体育.png" group-title="特区频道",俄罗斯体育
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/530/index.m3u8
+#EXTINF:-1 tvg-name="迪拜体育2" tvg-logo="https://live.fanmingming.com/tv/迪拜体育2.png" group-title="特区频道",迪拜体育2
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="拜仁体育" tvg-logo="https://live.fanmingming.com/tv/拜仁体育.png" group-title="特区频道",拜仁体育
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6097/index.m3u8
+#EXTINF:-1 tvg-name="天空体育 足球" tvg-logo="https://live.fanmingming.com/tv/天空体育 足球.png" group-title="特区频道",天空体育 足球
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7336/index.m3u8
+#EXTINF:-1 tvg-name="天空体育 足球" tvg-logo="https://live.fanmingming.com/tv/天空体育 足球.png" group-title="特区频道",天空体育 足球
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7341/index.m3u8
+#EXTINF:-1 tvg-name="天空体育 新闻" tvg-logo="https://live.fanmingming.com/tv/天空体育 新闻.png" group-title="特区频道",天空体育 新闻
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2477/index.m3u8
+#EXTINF:-1 tvg-name="天空体育 板球" tvg-logo="https://live.fanmingming.com/tv/天空体育 板球.png" group-title="特区频道",天空体育 板球
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7343/index.m3u8
+#EXTINF:-1 tvg-name="安徽体育" tvg-logo="https://live.fanmingming.com/tv/安徽体育.png" group-title="特区频道",安徽体育
+http://321257.cn:8888/udp/238.1.79.41:4440
+#EXTINF:-1 tvg-name="MBC体育" tvg-logo="https://live.fanmingming.com/tv/MBC体育.png" group-title="特区频道",MBC体育
+http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3u8
+#EXTINF:-1 tvg-name="天空体育 格斗" tvg-logo="https://live.fanmingming.com/tv/天空体育 格斗.png" group-title="特区频道",天空体育 格斗
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/15097/index.m3u8
+#EXTINF:-1 tvg-name="天空体育 德甲" tvg-logo="https://live.fanmingming.com/tv/天空体育 德甲.png" group-title="特区频道",天空体育 德甲
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7234/index.m3u8
+#EXTINF:-1 tvg-name="Bein体育3" tvg-logo="https://live.fanmingming.com/tv/Bein体育3.png" group-title="特区频道",Bein体育3
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6124/index.m3u8
+#EXTINF:-1 tvg-name="Bein体育3" tvg-logo="https://live.fanmingming.com/tv/Bein体育3.png" group-title="特区频道",Bein体育3
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2501/index.m3u8
+#EXTINF:-1 tvg-name="MAT体育2" tvg-logo="https://live.fanmingming.com/tv/MAT体育2.png" group-title="特区频道",MAT体育2
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/522/index.m3u8
+#EXTINF:-1 tvg-name="BT 体育1" tvg-logo="https://live.fanmingming.com/tv/BT 体育1.png" group-title="特区频道",BT 体育1
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2505/index.m3u8
+#EXTINF:-1 tvg-name="FOX体育" tvg-logo="https://live.fanmingming.com/tv/FOX体育.png" group-title="特区频道",FOX体育
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7323/index.m3u8
