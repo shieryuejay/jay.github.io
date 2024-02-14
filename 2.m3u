@@ -890,3 +890,916 @@ https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/gz/dp/pq/y9/acd55327c8504396a9
 #EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="麻豆-MSD",MSD-001/乱伦迷情药
 https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/qi/oi/gz/ux/dbf57474fbed49c9aa3fb97bcd75b891.m3u8?
 
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="花花公子1台" tvg-logo="https://live.fanmingming.com/tv/花花公子1台.png" group-title="直播",花花公子1台
+http://voz.one:80/alexfnt/vTFBGKdUYq/45641?#http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:E8:80&stream=773975&extension=ts&play_token=VFnUEDgvPl
+#EXTINF:-1 tvg-name="花花公子2台" tvg-logo="https://live.fanmingming.com/tv/花花公子2台.png" group-title="直播",花花公子2台
+http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/527/index.m3u8
+#EXTINF:-1 tvg-name="花花公子3台" tvg-logo="https://live.fanmingming.com/tv/花花公子3台.png" group-title="直播",花花公子3台
+http://unikhtxl.ottclub.xyz/iptv/74SQ72P5LQUZV5/6242/index.m3u8#http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/6242/index.m3u8
+#EXTINF:-1 tvg-name="菊花成人台" tvg-logo="https://live.fanmingming.com/tv/菊花成人台.png" group-title="直播",菊花成人台
+http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B8:25&stream=773971&extension=ts&play_token=VFnUEDgvPl
+#EXTINF:-1 tvg-name="潘朵拉完美台" tvg-logo="https://live.fanmingming.com/tv/潘朵拉完美台.png" group-title="直播",潘朵拉完美台
+p3p://108.181.20.159:9576/5fe4450c000c918b829fca233c845311#mitv://51.79.41.138:19806/5c18f905000c08fbc07444661e2e685e.ts.ts#p2p://216.244.75.178:9906/6555cea8000c542b000a4bd0bd3d8ddc.ts#p3p://108.181.20.159:75034/5fe4450c000c918b829fca233c845311#p3p://fccsen.dyndns.tv:29706/5fe4450c000c918b829fca233c845311
+#EXTINF:-1 tvg-name="香蕉台" tvg-logo="https://live.fanmingming.com/tv/香蕉台.png" group-title="直播",香蕉台
+p3p://108.181.20.159:9576/60626a760005067e6f5bbecb5816771e
+#EXTINF:-1 tvg-name="松视1台" tvg-logo="https://live.fanmingming.com/tv/松视1台.png" group-title="直播",松视1台
+p3p://108.181.20.159:9576/5fe445280008a40682a0367c343436bb
+#EXTINF:-1 tvg-name="松视2台" tvg-logo="https://live.fanmingming.com/tv/松视2台.png" group-title="直播",松视2台
+p3p://108.181.20.159:9576/60232b5f00007bc37850649979e379df
+#EXTINF:-1 tvg-name="松视3台" tvg-logo="https://live.fanmingming.com/tv/松视3台.png" group-title="直播",松视3台
+mitv://generationnexxxt.com:19806/65965a6a000397c7a3943b7d68302409
+#EXTINF:-1 tvg-name="IBIZA台" tvg-logo="https://live.fanmingming.com/tv/IBIZA台.png" group-title="直播",IBIZA台
+p3p://108.181.20.159:9576/6109e9590001f40bfd9b661109395f3b
+#EXTINF:-1 tvg-name="惊艳台" tvg-logo="https://live.fanmingming.com/tv/惊艳台.png" group-title="直播",惊艳台
+p3p://108.181.20.159:9576/60626a1b00010e3e6f5a5a4f018e5ebe
+#EXTINF:-1 tvg-name="LOOK台" tvg-logo="https://live.fanmingming.com/tv/LOOK台.png" group-title="直播",LOOK台
+p3p://108.181.20.159:9576/606271190002a1266f75aaee0463186a
+#EXTINF:-1 tvg-name="彩虹e台" tvg-logo="https://live.fanmingming.com/tv/彩虹e台.png" group-title="直播",彩虹e台
+p3p://108.181.20.159:9576/6062716c0008efc86f76f0c44d55329f
+#EXTINF:-1 tvg-name="彩虹K台" tvg-logo="https://live.fanmingming.com/tv/彩虹K台.png" group-title="直播",彩虹K台
+mitv://generationnexxxt.com:19806/659660d600094f04a3ad52d46ed26cbc
+#EXTINF:-1 tvg-name="国内AV台" tvg-logo="https://live.fanmingming.com/tv/国内AV台.png" group-title="直播",国内AV台
+p3p://108.181.20.159:9576/63fd56ec000b5f0d26d4fe1b07963493
+#EXTINF:-1 tvg-name="彩虹电影台" tvg-logo="https://live.fanmingming.com/tv/彩虹电影台.png" group-title="直播",彩虹电影台
+p3p://108.181.20.159:9576/6253066c00049259f74b05224cf375e6
+#EXTINF:-1 tvg-name="彩虹频道台" tvg-logo="https://live.fanmingming.com/tv/彩虹频道台.png" group-title="直播",彩虹频道台
+p3p://108.181.20.159:9576/63fd589300099ff426db7203798a21f9
+#EXTINF:-1 tvg-name="极限电影台" tvg-logo="https://live.fanmingming.com/tv/极限电影台.png" group-title="直播",极限电影台
+p3p://108.181.20.159:9576/6109e9bb0005fd87fd9ce5ea2c1f18d3
+#EXTINF:-1 tvg-name="彩虹e台" tvg-logo="https://live.fanmingming.com/tv/彩虹e台.png" group-title="直播",彩虹e台
+mitv://generationnexxxt.com:19806/65965911000021e1a38ef6eb6d960419
+#EXTINF:-1 tvg-name="彩虹电影台" tvg-logo="https://live.fanmingming.com/tv/彩虹电影台.png" group-title="直播",彩虹电影台
+mitv://generationnexxxt.com:19806/659659670009e1e0a390495b56fe0ef5
+#EXTINF:-1 tvg-name="LOOK台" tvg-logo="https://live.fanmingming.com/tv/LOOK台.png" group-title="直播",LOOK台
+mitv://generationnexxxt.com:19806/65965b99000447ada398db445ba341d9
+#EXTINF:-1 tvg-name="潘朵拉完美台" tvg-logo="https://live.fanmingming.com/tv/潘朵拉完美台.png" group-title="直播",潘朵拉完美台
+mitv://generationnexxxt.com:19806/b18b7d6f932a44b68dadb6bc37a5df28
+#EXTINF:-1 tvg-name="惊艳成人电影台" tvg-logo="https://live.fanmingming.com/tv/惊艳成人电影台.png" group-title="直播",惊艳成人电影台
+mitv://generationnexxxt.com:19806/9f2fedfddd1c44159afc05fbc6d19111
+#EXTINF:-1 tvg-name="香蕉台" tvg-logo="https://live.fanmingming.com/tv/香蕉台.png" group-title="直播",香蕉台
+mitv://generationnexxxt.com:19806/c56271abc82643f7b8a2a5184f56b80d
+#EXTINF:-1 tvg-name="松视1台" tvg-logo="https://live.fanmingming.com/tv/松视1台.png" group-title="直播",松视1台
+mitv://generationnexxxt.com:19806/65965a69000205b2a39437282edd171f
+#EXTINF:-1 tvg-name="松视2台" tvg-logo="https://live.fanmingming.com/tv/松视2台.png" group-title="直播",松视2台
+mitv://generationnexxxt.com:19806/65965a69000aa6b2a394396a278d2960
+#EXTINF:-1 tvg-name="HAPPY台" tvg-logo="https://live.fanmingming.com/tv/HAPPY台.png" group-title="直播",HAPPY台
+mitv://generationnexxxt.com:19806/659660790009efada3abe7bb6374465e
+#EXTINF:-1 tvg-name="JStar极限台" tvg-logo="https://live.fanmingming.com/tv/JStar极限台.png" group-title="直播",JStar极限台
+mitv://generationnexxxt.com:19806/65965afc0003ca30a39675dd41a40275
+#EXTINF:-1 tvg-name="18+SHOP" tvg-logo="https://live.fanmingming.com/tv/18+SHOP.png" group-title="直播",18+SHOP
+https://api.alpaca.t62a.com/hls/9108/stream0.m3u8
+#EXTINF:-1 tvg-name="21 Sextury" tvg-logo="https://live.fanmingming.com/tv/21 Sextury.png" group-title="直播",21 Sextury
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12205/index.m3u8
+#EXTINF:-1 tvg-name="A CASA DAS BRASILEIRINHAS +18" tvg-logo="https://live.fanmingming.com/tv/A CASA DAS BRASILEIRINHAS +18.png" group-title="直播",A CASA DAS BRASILEIRINHAS +18
+http://joao-1-us.mainbkonline.shop:80/6919834FEW839/981673FEQWE62/83240
+#EXTINF:-1 tvg-name="A3 Bikini" tvg-logo="https://live.fanmingming.com/tv/A3 Bikini.png" group-title="直播",A3 Bikini
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6165/index.m3u8
+#EXTINF:-1 tvg-name="Adult Time" tvg-logo="https://live.fanmingming.com/tv/Adult Time.png" group-title="直播",Adult Time
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6166/index.m3u8
+#EXTINF:-1 tvg-name="Alba 1 HD" tvg-logo="https://live.fanmingming.com/tv/Alba 1 HD.png" group-title="直播",Alba 1 HD
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12105/index.m3u8#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12106/index.m3u8#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12204/index.m3u8
+#EXTINF:-1 tvg-name="Alba XXX HD 2" tvg-logo="https://live.fanmingming.com/tv/Alba XXX HD 2.png" group-title="直播",Alba XXX HD 2
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12194/index.m3u8
+#EXTINF:-1 tvg-name="Alex Legend" tvg-logo="https://live.fanmingming.com/tv/Alex Legend.png" group-title="直播",Alex Legend
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12193/index.m3u8
+#EXTINF:-1 tvg-name="ALL ANAL" tvg-logo="https://live.fanmingming.com/tv/ALL ANAL.png" group-title="直播",ALL ANAL
+http://hostengine.live/live/Kellie/Snow/253673.m3u#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12192/index.m3u8
+#EXTINF:-1 tvg-name="AMADOR GAY +18" tvg-logo="https://live.fanmingming.com/tv/AMADOR GAY +18.png" group-title="直播",AMADOR GAY +18
+http://joao-1-us.mainbkonline.shop:80/6919834FEW839/981673FEQWE62/83241
+#EXTINF:-1 tvg-name="AMADORAS +18" tvg-logo="https://live.fanmingming.com/tv/AMADORAS +18.png" group-title="直播",AMADORAS +18
+http://joao-1-us.mainbkonline.shop:80/6919834FEW839/981673FEQWE62/83242
+#EXTINF:-1 tvg-name="Amateur Boxxx" tvg-logo="https://live.fanmingming.com/tv/Amateur Boxxx.png" group-title="直播",Amateur Boxxx
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12191/index.m3u8
+#EXTINF:-1 tvg-name="Anal 4K" tvg-logo="https://live.fanmingming.com/tv/Anal 4K.png" group-title="直播",Anal 4K
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12190/index.m3u8
+#EXTINF:-1 tvg-name="Anal Mom" tvg-logo="https://live.fanmingming.com/tv/Anal Mom.png" group-title="直播",Anal Mom
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12189/index.m3u8
+#EXTINF:-1 tvg-name="Anal Only" tvg-logo="https://live.fanmingming.com/tv/Anal Only.png" group-title="直播",Anal Only
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12184/index.m3u8
+#EXTINF:-1 tvg-name="Anal Red TV" tvg-logo="https://live.fanmingming.com/tv/Anal Red TV.png" group-title="直播",Anal Red TV
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6167/index.m3u8
+#EXTINF:-1 tvg-name="Anal Teen Angels" tvg-logo="https://live.fanmingming.com/tv/Anal Teen Angels.png" group-title="直播",Anal Teen Angels
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12183/index.m3u8
+#EXTINF:-1 tvg-name="Anal Time" tvg-logo="https://live.fanmingming.com/tv/Anal Time.png" group-title="直播",Anal Time
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12181/index.m3u8
+#EXTINF:-1 tvg-name="Anal" tvg-logo="https://live.fanmingming.com/tv/Anal.png" group-title="直播",Anal
+http://cdn.redtraffic.net/anal.m3u8#http://live.mycamtv.com/anal.m3u8
+#EXTINF:-1 tvg-name="Analized HD" tvg-logo="https://live.fanmingming.com/tv/Analized HD.png" group-title="直播",Analized HD
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6168/index.m3u8
+#EXTINF:-1 tvg-name="Arab Girls" tvg-logo="https://live.fanmingming.com/tv/Arab Girls.png" group-title="直播",Arab Girls
+http://live.mycamtv.com/arab.m3u8
+#EXTINF:-1 tvg-name="Asian Girls" tvg-logo="https://live.fanmingming.com/tv/Asian Girls.png" group-title="直播",Asian Girls
+http://live.mycamtv.com/asian.m3u8
+#EXTINF:-1 tvg-name="Asian" tvg-logo="https://live.fanmingming.com/tv/Asian.png" group-title="直播",Asian
+http://cdn.adultiptv.net/asian.m3u8
+#EXTINF:-1 tvg-name="Ass Parade" tvg-logo="https://live.fanmingming.com/tv/Ass Parade.png" group-title="直播",Ass Parade
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12178/index.m3u8
+#EXTINF:-1 tvg-name="Asshole Fever" tvg-logo="https://live.fanmingming.com/tv/Asshole Fever.png" group-title="直播",Asshole Fever
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12169/index.m3u8
+#EXTINF:-1 tvg-name="AST TV" tvg-logo="https://live.fanmingming.com/tv/AST TV.png" group-title="直播",AST TV
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6170/index.m3u8
+#EXTINF:-1 tvg-name="AST TV" tvg-logo="https://live.fanmingming.com/tv/AST TV.png" group-title="直播",AST TV
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6169/index.m3u8
+#EXTINF:-1 tvg-name="AUSSIE ASS" tvg-logo="https://live.fanmingming.com/tv/AUSSIE ASS.png" group-title="直播",AUSSIE ASS
+http://hostengine.live/live/Kellie/Snow/253674.m3u
+#EXTINF:-1 tvg-name="Babes TV" tvg-logo="https://live.fanmingming.com/tv/Babes TV.png" group-title="直播",Babes TV
+http://hostengine.live/live/Kellie/Snow/267044.m3u#http://rebrov.tvfor.pro/aGiDatERMa/ihwvhvl55bxyc5monync7vjz#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6172/index.m3u8
+#EXTINF:-1 tvg-name="Babestation" tvg-logo="https://live.fanmingming.com/tv/Babestation.png" group-title="直播",Babestation
+http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
+#EXTINF:-1 tvg-name="BAG U" tvg-logo="https://live.fanmingming.com/tv/BAG U.png" group-title="直播",BAG U
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12170/index.m3u8
+#EXTINF:-1 tvg-name="Balkan Erotic" tvg-logo="https://live.fanmingming.com/tv/Balkan Erotic.png" group-title="直播",Balkan Erotic
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6270/index.m3u8#http://hostengine.live/live/Kellie/Snow/267057.m3u
+#EXTINF:-1 tvg-name="Banana Fever" tvg-logo="https://live.fanmingming.com/tv/Banana Fever.png" group-title="直播",Banana Fever
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12168/index.m3u8
+#EXTINF:-1 tvg-name="Bang Bros HD" tvg-logo="https://live.fanmingming.com/tv/Bang Bros HD.png" group-title="直播",Bang Bros HD
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6173/index.m3u8
+#EXTINF:-1 tvg-name="Bang Bus" tvg-logo="https://live.fanmingming.com/tv/Bang Bus.png" group-title="直播",Bang Bus
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12167/index.m3u8
+#EXTINF:-1 tvg-name="Bang POV" tvg-logo="https://live.fanmingming.com/tv/Bang POV.png" group-title="直播",Bang POV
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12166/index.m3u8
+#EXTINF:-1 tvg-name="Bang U" tvg-logo="https://live.fanmingming.com/tv/Bang U.png" group-title="直播",Bang U
+http://hostengine.live/live/Kellie/Snow/267072.m3u#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12114/index.m3u8
+#EXTINF:-1 tvg-name="Bang!" tvg-logo="https://live.fanmingming.com/tv/Bang!.png" group-title="直播",Bang!
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6174/index.m3u8
+#EXTINF:-1 tvg-name="BANGERZ" tvg-logo="https://live.fanmingming.com/tv/BANGERZ.png" group-title="直播",BANGERZ
+http://hostengine.live/live/Kellie/Snow/267074.m3u
+#EXTINF:-1 tvg-name="BAREBACK CUMPARTY (GAY)" tvg-logo="https://live.fanmingming.com/tv/BAREBACK CUMPARTY (GAY).png" group-title="直播",BAREBACK CUMPARTY (GAY)
+http://hostengine.live/live/Kellie/Snow/253677.m3u
+#EXTINF:-1 tvg-name="Bareback TV" tvg-logo="https://live.fanmingming.com/tv/Bareback TV.png" group-title="直播",Bareback TV
+http://streamsy.online:2999/coachj88/N93DPKS9pJ/1037
+#EXTINF:-1 tvg-name="BARELY LEGAL TV" tvg-logo="https://live.fanmingming.com/tv/BARELY LEGAL TV.png" group-title="直播",BARELY LEGAL TV
+http://hostengine.live/live/Kellie/Snow/267049.m3u#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12165/index.m3u8
+#EXTINF:-1 tvg-name="BBC Pie" tvg-logo="https://live.fanmingming.com/tv/BBC Pie.png" group-title="直播",BBC Pie
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12164/index.m3u8
+#EXTINF:-1 tvg-name="BBW" tvg-logo="https://live.fanmingming.com/tv/BBW.png" group-title="直播",BBW
+http://cdn.adultiptv.net/smoking.m3u8
+#EXTINF:-1 tvg-name="BCU Charm HD" tvg-logo="https://live.fanmingming.com/tv/BCU Charm HD.png" group-title="直播",BCU Charm HD
+http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/18053/index.m3u8#http://rhsbjv7k.tvclub.xyz/iptv/84WHFA22FS28HY/18053/index.m3u8 #http://rebrov.tvfor.pro/TIOnerAsTA/ihwvhvl55bxyc5monync7vjz#http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/18053/index.m3u8#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/18053/index.m3u8
+#EXTINF:-1 tvg-name="Bdsm" tvg-logo="https://live.fanmingming.com/tv/Bdsm.png" group-title="直播",Bdsm
+http://live.redtraffic.xyz/bdsm.m3u8
+#EXTINF:-1 tvg-name="Beate Uhse" tvg-logo="https://live.fanmingming.com/tv/Beate Uhse.png" group-title="直播",Beate Uhse
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12163/index.m3u8
+#EXTINF:-1 tvg-name="BFFS" tvg-logo="https://live.fanmingming.com/tv/BFFS.png" group-title="直播",BFFS
+http://hostengine.live/live/Kellie/Snow/253675.m3u
+#EXTINF:-1 tvg-name="Big Ass Adult TV" tvg-logo="https://live.fanmingming.com/tv/Big Ass Adult TV.png" group-title="直播",Big Ass Adult TV
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6175/index.m3u8
+#EXTINF:-1 tvg-name="Big Ass Girls" tvg-logo="https://live.fanmingming.com/tv/Big Ass Girls.png" group-title="直播",Big Ass Girls
+http://live.mycamtv.com/bigass.m3u8
+#EXTINF:-1 tvg-name="Big Ass" tvg-logo="https://live.fanmingming.com/tv/Big Ass.png" group-title="直播",Big Ass
+http://cdn.redtraffic.net/bigass.m3u8#http://hostengine.live/live/Kellie/Snow/54635.m3u#http://live.redtraffic.xyz/bigass.m3u8#40c3c321681a14082b2b5770828910904e38ae2d1176ac1084582c805cce0795#http://live.redtraffic.xyz:80/bigass.m3u8
+#EXTINF:-1 tvg-name="Big Dick" tvg-logo="https://live.fanmingming.com/tv/Big Dick.png" group-title="直播",Big Dick
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6176/index.m3u8#http://cdn.adultiptv.net/bigdick.m3u8#http://live.redtraffic.xyz:80/bigdick.m3u8#http://live.redtraffic.xyz/bigdick.m3u8
+#EXTINF:-1 tvg-name="Big Dick" tvg-logo="https://live.fanmingming.com/tv/Big Dick.png" group-title="直播",Big Dick
+http://cdn.redtraffic.net/bigdick.m3u8
+#EXTINF:-1 tvg-name="Big Tits" tvg-logo="https://live.fanmingming.com/tv/Big Tits.png" group-title="直播",Big Tits
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6177/index.m3u8
+#EXTINF:-1 tvg-name="Big Tits" tvg-logo="https://live.fanmingming.com/tv/Big Tits.png" group-title="直播",Big Tits
+http://cdn.redtraffic.net/bigtits.m3u8
+#EXTINF:-1 tvg-name="Big Tits" tvg-logo="https://live.fanmingming.com/tv/Big Tits.png" group-title="直播",Big Tits
+http://hostengine.live/live/Kellie/Snow/54636.m3u
+#EXTINF:-1 tvg-name="BISEXUAL +18" tvg-logo="https://live.fanmingming.com/tv/BISEXUAL +18.png" group-title="直播",BISEXUAL +18
+http://joao-1-us.mainbkonline.shop:80/6919834FEW839/981673FEQWE62/83243
+#EXTINF:-1 tvg-name="BLACK IS BETTER" tvg-logo="https://live.fanmingming.com/tv/BLACK IS BETTER.png" group-title="直播",BLACK IS BETTER
+http://hostengine.live/live/Kellie/Snow/253678.m3u
+#EXTINF:-1 tvg-name="BLACKED" tvg-logo="https://live.fanmingming.com/tv/BLACKED.png" group-title="直播",BLACKED
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6178/index.m3u8
+#EXTINF:-1 tvg-name="BLACKED" tvg-logo="https://live.fanmingming.com/tv/BLACKED.png" group-title="直播",BLACKED
+http://hostengine.live/live/Kellie/Snow/253679.m3u
+#EXTINF:-1 tvg-name="Blonde" tvg-logo="https://live.fanmingming.com/tv/Blonde.png" group-title="直播",Blonde
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6179/index.m3u8
+#EXTINF:-1 tvg-name="Blonde" tvg-logo="https://live.fanmingming.com/tv/Blonde.png" group-title="直播",Blonde
+http://cdn.adultiptv.net/blonde.m3u8#http://cdn.redtraffic.net/blonde.m3u8#http://live.mycamtv.com/blonde.m3u8
+#EXTINF:-1 tvg-name="Blowjob Red TV" tvg-logo="https://live.fanmingming.com/tv/Blowjob Red TV.png" group-title="直播",Blowjob Red TV
+http://live.mycamtv.com/blowjob.m3u8
+#EXTINF:-1 tvg-name="Blowjob" tvg-logo="https://live.fanmingming.com/tv/Blowjob.png" group-title="直播",Blowjob
+http://cdn.adultiptv.net/blowjob.m3u8#http://live.redtraffic.xyz/blowjob.m3u8##http://cdn.redtraffic.net/blowjob.m3u8#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6180/index.m3u8#http://hostengine.live/live/Kellie/Snow/54637.m3u
+#EXTINF:-1 tvg-name="BLUE HUSTLER EUROPE" tvg-logo="https://live.fanmingming.com/tv/BLUE HUSTLER EUROPE.png" group-title="直播",BLUE HUSTLER EUROPE
+http://hostengine.live/live/Kellie/Snow/267080.m3u
+#EXTINF:-1 tvg-name="BLUE HUSTLER" tvg-logo="https://live.fanmingming.com/tv/BLUE HUSTLER.png" group-title="直播",BLUE HUSTLER
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/38940#http://hostengine.live/live/Kellie/Snow/267079.m3u#http://hostengine.live/live/Kellie/Snow/267087.m3u#http://rebrov.tvfor.pro/fU36p77FmV/ihwvhvl55bxyc5monync7vjz#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/1064/index.m3u8
+#EXTINF:-1 tvg-name="BRAD MONTANA +18" tvg-logo="https://live.fanmingming.com/tv/BRAD MONTANA +18.png" group-title="直播",BRAD MONTANA +18
+http://joao-1-us.mainbkonline.shop:80/6919834FEW839/981673FEQWE62/76720
+#EXTINF:-1 tvg-name="Brand New Amateurs" tvg-logo="https://live.fanmingming.com/tv/Brand New Amateurs.png" group-title="直播",Brand New Amateurs
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12162/index.m3u8
+#EXTINF:-1 tvg-name="BRASILEIRINHAS 1" tvg-logo="https://live.fanmingming.com/tv/BRASILEIRINHAS 1.png" group-title="直播",BRASILEIRINHAS 1
+http://joao-1-us.mainbkonline.shop:80/6919834FEW839/981673FEQWE62/83252
+#EXTINF:-1 tvg-name="BRASILEIRINHAS 2" tvg-logo="https://live.fanmingming.com/tv/BRASILEIRINHAS 2.png" group-title="直播",BRASILEIRINHAS 2
+http://joao-1-us.mainbkonline.shop:80/6919834FEW839/981673FEQWE62/82141
+#EXTINF:-1 tvg-name="Bratty Sis" tvg-logo="https://live.fanmingming.com/tv/Bratty Sis.png" group-title="直播",Bratty Sis
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12161/index.m3u8
+#EXTINF:-1 tvg-name="Bratty Sis" tvg-logo="https://live.fanmingming.com/tv/Bratty Sis.png" group-title="直播",Bratty Sis
+http://hostengine.live/live/Kellie/Snow/253680.m3u
+#EXTINF:-1 tvg-name="Brazzers Europa RUSSIAN" tvg-logo="https://live.fanmingming.com/tv/Brazzers Europa RUSSIAN.png" group-title="直播",Brazzers Europa RUSSIAN
+http://hostengine.live/live/Kellie/Snow/267054.m3u
+#EXTINF:-1 tvg-name="Brazzers Europa1" tvg-logo="https://live.fanmingming.com/tv/Brazzers Europa1.png" group-title="直播",Brazzers Europa1
+http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8#https://cdn-main.lolokoko.tv/brazzers.stream/chunks.m3u8#http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/62847#http://hostengine.live/live/Kellie/Snow/267007.m3u
+#EXTINF:-1 tvg-name="Brazzers Europa2" tvg-logo="https://live.fanmingming.com/tv/Brazzers Europa2.png" group-title="直播",Brazzers Europa2
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/910/index.m3u8
+#EXTINF:-1 tvg-name="Brazzers HD" tvg-logo="https://live.fanmingming.com/tv/Brazzers HD.png" group-title="直播",Brazzers HD
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6181/index.m3u8
+#EXTINF:-1 tvg-name="Brazzers HD" tvg-logo="https://live.fanmingming.com/tv/Brazzers HD.png" group-title="直播",Brazzers HD
+http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6182/index.m3u8#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6182/index.m3u8
+#EXTINF:-1 tvg-name="Brazzers HD" tvg-logo="https://live.fanmingming.com/tv/Brazzers HD.png" group-title="直播",Brazzers HD
+http://hostengine.live/live/Kellie/Snow/253681.m3u#http://hostengine.live/live/Kellie/Snow/267031.m3u#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12113/index.m3u8#http://streamsy.online:2999/coachj88/N93DPKS9pJ/1297
+#EXTINF:-1 tvg-name="Brunette" tvg-logo="https://live.fanmingming.com/tv/Brunette.png" group-title="直播",Brunette
+http://cdn.redtraffic.net/brunette.m3u8#http://live.mycamtv.com/brunette.m3u8#http://cdn.adultiptv.net/brunette.m3u8#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6183/index.m3u8
+#EXTINF:-1 tvg-name="BWC" tvg-logo="https://live.fanmingming.com/tv/BWC.png" group-title="直播",BWC
+http://hostengine.live/live/Kellie/Snow/253676.m3u
+#EXTINF:-1 tvg-name="CANDY TV" tvg-logo="https://live.fanmingming.com/tv/CANDY TV.png" group-title="直播",CANDY TV
+http://hostengine.live/live/Kellie/Snow/267085.m3u
+#EXTINF:-1 tvg-name="Cento X Cento" tvg-logo="https://live.fanmingming.com/tv/Cento X Cento.png" group-title="直播",Cento X Cento
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6184/index.m3u8
+#EXTINF:-1 tvg-name="CHEEKY" tvg-logo="https://live.fanmingming.com/tv/CHEEKY.png" group-title="直播",CHEEKY
+http://hostengine.live/live/Kellie/Snow/253682.m3u
+#EXTINF:-1 tvg-name="Cherry Pimps" tvg-logo="https://live.fanmingming.com/tv/Cherry Pimps.png" group-title="直播",Cherry Pimps
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6185/index.m3u8
+#EXTINF:-1 tvg-name="CineMan ExExEx ONE" tvg-logo="https://live.fanmingming.com/tv/CineMan ExExEx ONE.png" group-title="直播",CineMan ExExEx ONE
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/20089/index.m3u8
+#EXTINF:-1 tvg-name="CineMan ExExEx TWO" tvg-logo="https://live.fanmingming.com/tv/CineMan ExExEx TWO.png" group-title="直播",CineMan ExExEx TWO
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/20090/index.m3u8
+#EXTINF:-1 tvg-name="Club 17" tvg-logo="https://live.fanmingming.com/tv/Club 17.png" group-title="直播",Club 17
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6186/index.m3u8
+#EXTINF:-1 tvg-name="COLLEGE RULES" tvg-logo="https://live.fanmingming.com/tv/COLLEGE RULES.png" group-title="直播",COLLEGE RULES
+http://hostengine.live/live/Kellie/Snow/253683.m3u
+#EXTINF:-1 tvg-name="Compilation" tvg-logo="https://live.fanmingming.com/tv/Compilation.png" group-title="直播",Compilation
+http://cdn.adultiptv.net/compilation.m3u8#http://cdn.redtraffic.net/compilation.m3u8#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6187/index.m3u8
+#EXTINF:-1 tvg-name="CONTOS MULTISHOW +18" tvg-logo="https://live.fanmingming.com/tv/CONTOS MULTISHOW +18.png" group-title="直播",CONTOS MULTISHOW +18
+http://blacktv.syscdn.xyz:80/491175347448pw/906956704666/82162#http://joao-1-us.mainbkonline.shop:80/6919834FEW839/981673FEQWE62/82162
+#EXTINF:-1 tvg-name="COSPLAY +18" tvg-logo="https://live.fanmingming.com/tv/COSPLAY +18.png" group-title="直播",COSPLAY +18
+http://blacktv.syscdn.xyz:80/491175347448pw/906956704666/82163#http://joao-1-us.mainbkonline.shop:80/6919834FEW839/981673FEQWE62/82163
+#EXTINF:-1 tvg-name="COUGAR SIGHTINGS" tvg-logo="https://live.fanmingming.com/tv/COUGAR SIGHTINGS.png" group-title="直播",COUGAR SIGHTINGS
+http://hostengine.live/live/Kellie/Snow/253684.m3u
+#EXTINF:-1 tvg-name="CRAZY ASIAN GFS" tvg-logo="https://live.fanmingming.com/tv/CRAZY ASIAN GFS.png" group-title="直播",CRAZY ASIAN GFS
+http://hostengine.live/live/Kellie/Snow/253685.m3u
+#EXTINF:-1 tvg-name="Cuckold Red TV" tvg-logo="https://live.fanmingming.com/tv/Cuckold Red TV.png" group-title="直播",Cuckold Red TV
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6188/index.m3u8
+#EXTINF:-1 tvg-name="Cuckold" tvg-logo="https://live.fanmingming.com/tv/Cuckold.png" group-title="直播",Cuckold
+http://cdn.redtraffic.net/cuckold.m3u8#http://hostengine.live/live/Kellie/Snow/54638.m3u
+#EXTINF:-1 tvg-name="Cum Louder" tvg-logo="https://live.fanmingming.com/tv/Cum Louder.png" group-title="直播",Cum Louder
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6189/index.m3u8
+#EXTINF:-1 tvg-name="Cum Perfection" tvg-logo="https://live.fanmingming.com/tv/Cum Perfection.png" group-title="直播",Cum Perfection
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12158/index.m3u8
+#EXTINF:-1 tvg-name="Cum4k" tvg-logo="https://live.fanmingming.com/tv/Cum4k.png" group-title="直播",Cum4k
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12157/index.m3u8#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6190/index.m3u8
+#EXTINF:-1 tvg-name="Dad Crush" tvg-logo="https://live.fanmingming.com/tv/Dad Crush.png" group-title="直播",Dad Crush
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12154/index.m3u8
+#EXTINF:-1 tvg-name="Dancing Bear" tvg-logo="https://live.fanmingming.com/tv/Dancing Bear.png" group-title="直播",Dancing Bear
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12144/index.m3u8
+#EXTINF:-1 tvg-name="Dane Jones" tvg-logo="https://live.fanmingming.com/tv/Dane Jones.png" group-title="直播",Dane Jones
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12143/index.m3u8
+#EXTINF:-1 tvg-name="Dark X" tvg-logo="https://live.fanmingming.com/tv/Dark X.png" group-title="直播",Dark X
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12140/index.m3u8
+#EXTINF:-1 tvg-name="Day with a Pornstar" tvg-logo="https://live.fanmingming.com/tv/Day with a Pornstar.png" group-title="直播",Day with a Pornstar
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6192/index.m3u8
+#EXTINF:-1 tvg-name="DDF Busty" tvg-logo="https://live.fanmingming.com/tv/DDF Busty.png" group-title="直播",DDF Busty
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6193/index.m3u8
+#EXTINF:-1 tvg-name="DDF Network" tvg-logo="https://live.fanmingming.com/tv/DDF Network.png" group-title="直播",DDF Network
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6194/index.m3u8
+#EXTINF:-1 tvg-name="DE Blue Hustler" tvg-logo="https://live.fanmingming.com/tv/DE Blue Hustler.png" group-title="直播",DE Blue Hustler
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/20023/index.m3u8
+#EXTINF:-1 tvg-name="DE Lust pur HD" tvg-logo="https://live.fanmingming.com/tv/DE Lust pur HD.png" group-title="直播",DE Lust pur HD
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/20024/index.m3u8
+#EXTINF:-1 tvg-name="DE Penthouse Passion HD" tvg-logo="https://live.fanmingming.com/tv/DE Penthouse Passion HD.png" group-title="直播",DE Penthouse Passion HD
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/20025/index.m3u8
+#EXTINF:-1 tvg-name="DE Playboy Europe" tvg-logo="https://live.fanmingming.com/tv/DE Playboy Europe.png" group-title="直播",DE Playboy Europe
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/20026/index.m3u8
+#EXTINF:-1 tvg-name="Deep Lush" tvg-logo="https://live.fanmingming.com/tv/Deep Lush.png" group-title="直播",Deep Lush
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12139/index.m3u8
+#EXTINF:-1 tvg-name="Deep Throat Sirens" tvg-logo="https://live.fanmingming.com/tv/Deep Throat Sirens.png" group-title="直播",Deep Throat Sirens
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12138/index.m3u8
+#EXTINF:-1 tvg-name="Desire" tvg-logo="https://live.fanmingming.com/tv/Desire.png" group-title="直播",Desire
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-name="Digital Desire HD" tvg-logo="https://live.fanmingming.com/tv/Digital Desire HD.png" group-title="直播",Digital Desire HD
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6195/index.m3u8
+#EXTINF:-1 tvg-name="Digital Playground HD" tvg-logo="https://live.fanmingming.com/tv/Digital Playground HD.png" group-title="直播",Digital Playground HD
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6196/index.m3u8
+#EXTINF:-1 tvg-name="Dirty Flix" tvg-logo="https://live.fanmingming.com/tv/Dirty Flix.png" group-title="直播",Dirty Flix
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12130/index.m3u8
+#EXTINF:-1 tvg-name="Dirty Masseur" tvg-logo="https://live.fanmingming.com/tv/Dirty Masseur.png" group-title="直播",Dirty Masseur
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12128/index.m3u8
+#EXTINF:-1 tvg-name="Dirty Wives Club" tvg-logo="https://live.fanmingming.com/tv/Dirty Wives Club.png" group-title="直播",Dirty Wives Club
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12122/index.m3u8
+#EXTINF:-1 tvg-name="Dorcel Club" tvg-logo="https://live.fanmingming.com/tv/Dorcel Club.png" group-title="直播",Dorcel Club
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6197/index.m3u8
+#EXTINF:-1 tvg-name="Dorcel TV orig" tvg-logo="https://live.fanmingming.com/tv/Dorcel TV orig.png" group-title="直播",Dorcel TV orig
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/9064/index.m3u8#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/9067/index.m3u8
+#EXTINF:-1 tvg-name="Dorcel TV" tvg-logo="https://live.fanmingming.com/tv/Dorcel TV.png" group-title="直播",Dorcel TV
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12131/index.m3u8#https://cdn-main.lolokoko.tv/DorcelTV.stream/chunks.m3u8
+#EXTINF:-1 tvg-name="Dorcel XXX" tvg-logo="https://live.fanmingming.com/tv/Dorcel XXX.png" group-title="直播",Dorcel XXX
+http://hostengine.live/live/Kellie/Snow/267011.m3u#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12132/index.m3u8
+#EXTINF:-1 tvg-name="Dorcel" tvg-logo="https://live.fanmingming.com/tv/Dorcel.png" group-title="直播",Dorcel
+http://213.226.69.130/iptv/BF9GWX8VNPYM9X/245/index.m3u8#http://hostengine.live/live/Kellie/Snow/267032.m3u
+#EXTINF:-1 tvg-name="Dorcel" tvg-logo="https://live.fanmingming.com/tv/Dorcel.png" group-title="直播",Dorcel
+http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8#http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=774029&extension=ts&play_token=VFnUEDgvPl
+#EXTINF:-1 tvg-name="DP Fanatics" tvg-logo="https://live.fanmingming.com/tv/DP Fanatics.png" group-title="直播",DP Fanatics
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12111/index.m3u8
+#EXTINF:-1 tvg-name="DREAM PORN" tvg-logo="https://live.fanmingming.com/tv/DREAM PORN.png" group-title="直播",DREAM PORN
+http://hostengine.live/live/Kellie/Snow/267043.m3u
+#EXTINF:-1 tvg-name="DuckTV HD" tvg-logo="https://live.fanmingming.com/tv/DuckTV HD.png" group-title="直播",DuckTV HD
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/18138/index.m3u8
+#EXTINF:-1 tvg-name="DUSK" tvg-logo="https://live.fanmingming.com/tv/DUSK.png" group-title="直播",DUSK
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12129/index.m3u8#http://hostengine.live/live/Kellie/Snow/267020.m3u#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6198/index.m3u8
+#EXTINF:-1 tvg-name="Ebony Girls" tvg-logo="https://live.fanmingming.com/tv/Ebony Girls.png" group-title="直播",Ebony Girls
+http://live.mycamtv.com/ebony.m3u8
+#EXTINF:-1 tvg-name="ELISA SANCHES +18" tvg-logo="https://live.fanmingming.com/tv/ELISA SANCHES +18.png" group-title="直播",ELISA SANCHES +18
+http://blacktv.syscdn.xyz:80/491175347448pw/906956704666/76703#http://joao-1-us.mainbkonline.shop:80/6919834FEW839/981673FEQWE62/76703
+#EXTINF:-1 tvg-name="EMANUELLE" tvg-logo="https://live.fanmingming.com/tv/EMANUELLE.png" group-title="直播",EMANUELLE
+http://hostengine.live/live/Kellie/Snow/267075.m3u
+#EXTINF:-1 tvg-name="Eromania 4K" tvg-logo="https://live.fanmingming.com/tv/Eromania 4K.png" group-title="直播",Eromania 4K
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/10049/index.m3u8
+#EXTINF:-1 tvg-name="Eropulse TV" tvg-logo="https://live.fanmingming.com/tv/Eropulse TV.png" group-title="直播",Eropulse TV
+http://api.alpaca.t62a.com/hls/9108/stream0.m3u8
+#EXTINF:-1 tvg-name="Erotic 1" tvg-logo="https://live.fanmingming.com/tv/Erotic 1.png" group-title="直播",Erotic 1
+http://hostengine.live/live/Kellie/Snow/267063.m3u#http://hostengine.live/live/Kellie/Snow/267066.m3u#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12146/index.m3u8#http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6289/index.m3u8
+#EXTINF:-1 tvg-name="Erotic 2" tvg-logo="https://live.fanmingming.com/tv/Erotic 2.png" group-title="直播",Erotic 2
+http://hostengine.live/live/Kellie/Snow/267064.m3u#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12147/index.m3u8#http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6290/index.m3u8#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6290/index.m3u8
+#EXTINF:-1 tvg-name="Erotic 3" tvg-logo="https://live.fanmingming.com/tv/Erotic 3.png" group-title="直播",Erotic 3
+http://hostengine.live/live/Kellie/Snow/267065.m3u#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12148/index.m3u8#http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6291/index.m3u8#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6240/index.m3u8#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6291/index.m3u8
+#EXTINF:-1 tvg-name="Erotic 4" tvg-logo="https://live.fanmingming.com/tv/Erotic 4.png" group-title="直播",Erotic 4
+http://hostengine.live/live/Kellie/Snow/267067.m3u#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12149/index.m3u8#http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6292/index.m3u8#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6241/index.m3u8#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6292/index.m3u8
+#EXTINF:-1 tvg-name="Erotic 5" tvg-logo="https://live.fanmingming.com/tv/Erotic 5.png" group-title="直播",Erotic 5
+http://hostengine.live/live/Kellie/Snow/267068.m3u#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12150/index.m3u8
+#EXTINF:-1 tvg-name="Erotic 6" tvg-logo="https://live.fanmingming.com/tv/Erotic 6.png" group-title="直播",Erotic 6
+http://hostengine.live/live/Kellie/Snow/267050.m3u#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12151/index.m3u8#http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6293/index.m3u8#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6293/index.m3u8
+#EXTINF:-1 tvg-name="Erotic 7" tvg-logo="https://live.fanmingming.com/tv/Erotic 7.png" group-title="直播",Erotic 7
+http://hostengine.live/live/Kellie/Snow/267014.m3u#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12152/index.m3u8#http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6294/index.m3u8#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6294/index.m3u8
+#EXTINF:-1 tvg-name="Erotic 8" tvg-logo="https://live.fanmingming.com/tv/Erotic 8.png" group-title="直播",Erotic 8
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12153/index.m3u8#http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6295/index.m3u8#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6295/index.m3u8#https://skywatch.club:8443/play/QAkHqYPACG3ZLU9YN1CimWQ2QuVlQlisacVwl9rmsPU#http://hostengine.live/live/Kellie/Snow/267022.m3u
+#EXTINF:-1 tvg-name="Erotic Spice" tvg-logo="https://live.fanmingming.com/tv/Erotic Spice.png" group-title="直播",Erotic Spice
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12110/index.m3u8
+#EXTINF:-1 tvg-name="Erotic" tvg-logo="https://live.fanmingming.com/tv/Erotic.png" group-title="直播",Erotic
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6289/index.m3u8
+#EXTINF:-1 tvg-name="Erotica X" tvg-logo="https://live.fanmingming.com/tv/Erotica X.png" group-title="直播",Erotica X
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12109/index.m3u8
+#EXTINF:-1 tvg-name="EROX" tvg-logo="https://live.fanmingming.com/tv/EROX.png" group-title="直播",EROX
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6296/index.m3u8
+#EXTINF:-1 tvg-name="EROX XXX" tvg-logo="https://live.fanmingming.com/tv/EROX XXX.png" group-title="直播",EROX XXX
+http://hostengine.live/live/Kellie/Snow/267036.m3u#http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/54982#http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/5015/index.m3u8#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/5015/index.m3u8
+#EXTINF:-1 tvg-name="EROX" tvg-logo="https://live.fanmingming.com/tv/EROX.png" group-title="直播",EROX
+http://hostengine.live/live/Kellie/Snow/267035.m3u
+#EXTINF:-1 tvg-name="Euro Girls On Girls" tvg-logo="https://live.fanmingming.com/tv/Euro Girls On Girls.png" group-title="直播",Euro Girls On Girls
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12108/index.m3u8
+#EXTINF:-1 tvg-name="Evil Angel HD" tvg-logo="https://live.fanmingming.com/tv/Evil Angel HD.png" group-title="直播",Evil Angel HD
+http://hostengine.live/live/Kellie/Snow/267034.m3u#http://hostengine.live/live/Kellie/Snow/267047.m3u#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6199/index.m3u8#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6201/index.m3u8
+#EXTINF:-1 tvg-name="Evolved Fights" tvg-logo="https://live.fanmingming.com/tv/Evolved Fights.png" group-title="直播",Evolved Fights
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6200/index.m3u8
+#EXTINF:-1 tvg-name="Exotic 4k" tvg-logo="https://live.fanmingming.com/tv/Exotic 4k.png" group-title="直播",Exotic 4k
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12107/index.m3u8
+#EXTINF:-1 tvg-name="EXPLOITEDMOMS.COM" tvg-logo="https://live.fanmingming.com/tv/EXPLOITEDMOMS.COM.png" group-title="直播",EXPLOITEDMOMS.COM
+http://hostengine.live/live/Kellie/Snow/253686.m3u
+#EXTINF:-1 tvg-name="EXTREM" tvg-logo="https://live.fanmingming.com/tv/EXTREM.png" group-title="直播",EXTREM
+http://hostengine.live/live/Kellie/Snow/267046.m3u
+#EXTINF:-1 tvg-name="Extreme" tvg-logo="https://live.fanmingming.com/tv/Extreme.png" group-title="直播",Extreme
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6273/index.m3u8
+#EXTINF:-1 tvg-name="EXXXOTICA HD orig" tvg-logo="https://live.fanmingming.com/tv/EXXXOTICA HD orig.png" group-title="直播",EXXXOTICA HD orig
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/9346/index.m3u8
+#EXTINF:-1 tvg-name="Fake Taxi HD" tvg-logo="https://live.fanmingming.com/tv/Fake Taxi HD.png" group-title="直播",Fake Taxi HD
+http://hostengine.live/live/Kellie/Snow/253687.m3u#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6202/index.m3u8
+#EXTINF:-1 tvg-name="Family Hookups" tvg-logo="https://live.fanmingming.com/tv/Family Hookups.png" group-title="直播",Family Hookups
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/9345/index.m3u8
+#EXTINF:-1 tvg-name="Family Strokes" tvg-logo="https://live.fanmingming.com/tv/Family Strokes.png" group-title="直播",Family Strokes
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12156/index.m3u8
+#EXTINF:-1 tvg-name="Family Swap" tvg-logo="https://live.fanmingming.com/tv/Family Swap.png" group-title="直播",Family Swap
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12155/index.m3u8
+#EXTINF:-1 tvg-name="Fap TV 2" tvg-logo="https://live.fanmingming.com/tv/Fap TV 2.png" group-title="直播",Fap TV 2
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6203/index.m3u8
+#EXTINF:-1 tvg-name="Fap TV 3" tvg-logo="https://live.fanmingming.com/tv/Fap TV 3.png" group-title="直播",Fap TV 3
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6204/index.m3u8
+#EXTINF:-1 tvg-name="Fap TV Anal" tvg-logo="https://live.fanmingming.com/tv/Fap TV Anal.png" group-title="直播",Fap TV Anal
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6206/index.m3u8
+#EXTINF:-1 tvg-name="Fap TV BBW" tvg-logo="https://live.fanmingming.com/tv/Fap TV BBW.png" group-title="直播",Fap TV BBW
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6207/index.m3u8
+#EXTINF:-1 tvg-name="Fap TV Compilation" tvg-logo="https://live.fanmingming.com/tv/Fap TV Compilation.png" group-title="直播",Fap TV Compilation
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6208/index.m3u8
+#EXTINF:-1 tvg-name="Fap TV Lesbian" tvg-logo="https://live.fanmingming.com/tv/Fap TV Lesbian.png" group-title="直播",Fap TV Lesbian
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6209/index.m3u8
+#EXTINF:-1 tvg-name="Fap TV Parody" tvg-logo="https://live.fanmingming.com/tv/Fap TV Parody.png" group-title="直播",Fap TV Parody
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6210/index.m3u8
+#EXTINF:-1 tvg-name="Fap TV Teens" tvg-logo="https://live.fanmingming.com/tv/Fap TV Teens.png" group-title="直播",Fap TV Teens
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6211/index.m3u8
+#EXTINF:-1 tvg-name="Fast Boyz" tvg-logo="https://live.fanmingming.com/tv/Fast Boyz.png" group-title="直播",Fast Boyz
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6274/index.m3u8
+#EXTINF:-1 tvg-name="FEMALE FAKE TAXI" tvg-logo="https://live.fanmingming.com/tv/FEMALE FAKE TAXI.png" group-title="直播",FEMALE FAKE TAXI
+http://hostengine.live/live/Kellie/Snow/253688.m3u
+#EXTINF:-1 tvg-name="FemJoy" tvg-logo="https://live.fanmingming.com/tv/FemJoy.png" group-title="直播",FemJoy
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6212/index.m3u8
+#EXTINF:-1 tvg-name="FESTA PRIME BR +18" tvg-logo="https://live.fanmingming.com/tv/FESTA PRIME BR +18.png" group-title="直播",FESTA PRIME BR +18
+http://blacktv.syscdn.xyz:80/491175347448pw/906956704666/82164#http://joao-1-us.mainbkonline.shop:80/6919834FEW839/981673FEQWE62/82164
+#EXTINF:-1 tvg-name="Fetish Red TV" tvg-logo="https://live.fanmingming.com/tv/Fetish Red TV.png" group-title="直播",Fetish Red TV
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6213/index.m3u8
+#EXTINF:-1 tvg-name="Fetish" tvg-logo="https://live.fanmingming.com/tv/Fetish.png" group-title="直播",Fetish
+http://cdn.redtraffic.net/fetish.m3u8#http://hostengine.live/live/Kellie/Snow/54639.m3u#http://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:-1 tvg-name="FINE VIDS XXX" tvg-logo="https://live.fanmingming.com/tv/FINE VIDS XXX.png" group-title="直播",FINE VIDS XXX
+http://hostengine.live/live/Kellie/Snow/54579.m3u
+#EXTINF:-1 tvg-name="FOURSOMES OR MORESOMES" tvg-logo="https://live.fanmingming.com/tv/FOURSOMES OR MORESOMES.png" group-title="直播",FOURSOMES OR MORESOMES
+http://hostengine.live/live/Kellie/Snow/253689.m3u
+#EXTINF:-1 tvg-name="FREE X TV" tvg-logo="https://live.fanmingming.com/tv/FREE X TV.png" group-title="直播",FREE X TV
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12134/index.m3u8
+#EXTINF:-1 tvg-name="FRENCH LOVER EUROPE" tvg-logo="https://live.fanmingming.com/tv/FRENCH LOVER EUROPE.png" group-title="直播",FRENCH LOVER EUROPE
+http://hostengine.live/live/Kellie/Snow/267084.m3u
+#EXTINF:-1 tvg-name="FRENCH LOVER" tvg-logo="https://live.fanmingming.com/tv/FRENCH LOVER.png" group-title="直播",FRENCH LOVER
+http://hostengine.live/live/Kellie/Snow/267083.m3u
+#EXTINF:-1 tvg-name="FRENCH LOVER" tvg-logo="https://live.fanmingming.com/tv/FRENCH LOVER.png" group-title="直播",FRENCH LOVER
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12124/index.m3u8
+#EXTINF:-1 tvg-name="GANG BANG +18" tvg-logo="https://live.fanmingming.com/tv/GANG BANG +18.png" group-title="直播",GANG BANG +18
+http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=774047&extension=ts&play_token=VFnUEDgvPl#http://blacktv.syscdn.xyz:80/491175347448pw/906956704666/82165#http://joao-1-us.mainbkonline.shop:80/6919834FEW839/981673FEQWE62/82165
+#EXTINF:-1 tvg-name="Gangbang" tvg-logo="https://live.fanmingming.com/tv/Gangbang.png" group-title="直播",Gangbang
+http://cdn.redtraffic.net/gangbang.m3u8#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6214/index.m3u8
+#EXTINF:-1 tvg-name="Gay Adult TV" tvg-logo="https://live.fanmingming.com/tv/Gay Adult TV.png" group-title="直播",Gay Adult TV
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6215/index.m3u8
+#EXTINF:-1 tvg-name="GAY Fast Boyz" tvg-logo="https://live.fanmingming.com/tv/GAY Fast Boyz.png" group-title="直播",GAY Fast Boyz
+https://skywatch.club:8443/play/QAkHqYPACG3ZLU9YN1CimYAOjAJXqeHudtonb4RoTd8
+#EXTINF:-1 tvg-name="GAY" tvg-logo="https://live.fanmingming.com/tv/GAY.png" group-title="直播",GAY
+http://cdn.redtraffic.net/gay.m3u8
+#EXTINF:-1 tvg-name="GAYS +18" tvg-logo="https://live.fanmingming.com/tv/GAYS +18.png" group-title="直播",GAYS +18
+http://joao-1-us.mainbkonline.shop:80/6919834FEW839/981673FEQWE62/82166
+#EXTINF:-1 tvg-name="GINGER PATCH" tvg-logo="https://live.fanmingming.com/tv/GINGER PATCH.png" group-title="直播",GINGER PATCH
+http://hostengine.live/live/Kellie/Snow/253690.m3u
+#EXTINF:-1 tvg-name="GIRLS GONE WILD" tvg-logo="https://live.fanmingming.com/tv/GIRLS GONE WILD.png" group-title="直播",GIRLS GONE WILD
+http://hostengine.live/live/Kellie/Snow/253691.m3u
+#EXTINF:-1 tvg-name="Girls live" tvg-logo="https://live.fanmingming.com/tv/Girls live.png" group-title="直播",Girls live
+https://live.mycamtv.com/stream.m3u8
+#EXTINF:-1 tvg-name="Girls Squirt" tvg-logo="https://live.fanmingming.com/tv/Girls Squirt.png" group-title="直播",Girls Squirt
+http://live.mycamtv.com/squirt.m3u8
+#EXTINF:-1 tvg-name="GORDAS +18" tvg-logo="https://live.fanmingming.com/tv/GORDAS +18.png" group-title="直播",GORDAS +18
+http://joao-1-us.mainbkonline.shop:80/6919834FEW839/981673FEQWE62/83245
+#EXTINF:-1 tvg-name="Got MYLF" tvg-logo="https://live.fanmingming.com/tv/Got MYLF.png" group-title="直播",Got MYLF
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6216/index.m3u8
+#EXTINF:-1 tvg-name="GREAT AMERICAN SLUT OFF" tvg-logo="https://live.fanmingming.com/tv/GREAT AMERICAN SLUT OFF.png" group-title="直播",GREAT AMERICAN SLUT OFF
+http://hostengine.live/live/Kellie/Snow/253692.m3u
+#EXTINF:-1 tvg-name="Hands on Hardcore" tvg-logo="https://live.fanmingming.com/tv/Hands on Hardcore.png" group-title="直播",Hands on Hardcore
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6217/index.m3u8
+#EXTINF:-1 tvg-name="Hard X" tvg-logo="https://live.fanmingming.com/tv/Hard X.png" group-title="直播",Hard X
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6218/index.m3u8
+#EXTINF:-1 tvg-name="Hardcore Red TV" tvg-logo="https://live.fanmingming.com/tv/Hardcore Red TV.png" group-title="直播",Hardcore Red TV
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6219/index.m3u8
+#EXTINF:-1 tvg-name="Hardcore" tvg-logo="https://live.fanmingming.com/tv/Hardcore.png" group-title="直播",Hardcore
+http://cdn.adultiptv.net/hardcore.m3u8#http://live.redtraffic.xyz/hardcore.m3u8?fluxuslust.m3u8#http://cdn.redtraffic.net/hardcore.m3u8#http://hostengine.live/live/Kellie/Snow/54640.m3u
+#EXTINF:-1 tvg-name="HENTAI +18" tvg-logo="https://live.fanmingming.com/tv/HENTAI +18.png" group-title="直播",HENTAI +18
+http://blacktv.syscdn.xyz:80/491175347448pw/906956704666/82167#http://joao-1-us.mainbkonline.shop:80/6919834FEW839/981673FEQWE62/82167
+#EXTINF:-1 tvg-name="Hitzefrei HD" tvg-logo="https://live.fanmingming.com/tv/Hitzefrei HD.png" group-title="直播",Hitzefrei HD
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6220/index.m3u8
+#EXTINF:-1 tvg-name="Holed" tvg-logo="https://live.fanmingming.com/tv/Holed.png" group-title="直播",Holed
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6221/index.m3u8
+#EXTINF:-1 tvg-name="Hot and Mean" tvg-logo="https://live.fanmingming.com/tv/Hot and Mean.png" group-title="直播",Hot and Mean
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6222/index.m3u8
+#EXTINF:-1 tvg-name="Hot Guys Fuck" tvg-logo="https://live.fanmingming.com/tv/Hot Guys Fuck.png" group-title="直播",Hot Guys Fuck
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6223/index.m3u8
+#EXTINF:-1 tvg-name="Hot Pleasure" tvg-logo="https://live.fanmingming.com/tv/Hot Pleasure.png" group-title="直播",Hot Pleasure
+http://hostengine.live/live/Kellie/Snow/267089.m3u#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6277/index.m3u8
+#EXTINF:-1 tvg-name="HOT SEXY PLUMPERS" tvg-logo="https://live.fanmingming.com/tv/HOT SEXY PLUMPERS.png" group-title="直播",HOT SEXY PLUMPERS
+http://hostengine.live/live/Kellie/Snow/253693.m3u
+#EXTINF:-1 tvg-name="HOT TV" tvg-logo="https://live.fanmingming.com/tv/HOT TV.png" group-title="直播",HOT TV
+http://hostengine.live/live/Kellie/Snow/267056.m3u
+#EXTINF:-1 tvg-name="HOT XXL HD" tvg-logo="https://live.fanmingming.com/tv/HOT XXL HD.png" group-title="直播",HOT XXL HD
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6276/index.m3u8
+#EXTINF:-1 tvg-name="HOT" tvg-logo="https://live.fanmingming.com/tv/HOT.png" group-title="直播",HOT
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6275/index.m3u8
+#EXTINF:-1 tvg-name="HOTWIFE BOUND" tvg-logo="https://live.fanmingming.com/tv/HOTWIFE BOUND.png" group-title="直播",HOTWIFE BOUND
+http://hostengine.live/live/Kellie/Snow/253694.m3u
+#EXTINF:-1 tvg-name="HOTWIFE PREMIUM" tvg-logo="https://live.fanmingming.com/tv/HOTWIFE PREMIUM.png" group-title="直播",HOTWIFE PREMIUM
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12187/index.m3u8
+#EXTINF:-1 tvg-name="Hustler HD Europe" tvg-logo="https://live.fanmingming.com/tv/Hustler HD Europe.png" group-title="直播",Hustler HD Europe
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/244/index.m3u8
+#EXTINF:-1 tvg-name="Hustler HD orig" tvg-logo="https://live.fanmingming.com/tv/Hustler HD orig.png" group-title="直播",Hustler HD orig
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/9065/index.m3u8
+#EXTINF:-1 tvg-name="Hustler HD" tvg-logo="https://live.fanmingming.com/tv/Hustler HD.png" group-title="直播",Hustler HD
+http://213.226.69.130/iptv/BF9GWX8VNPYM9X/244/index.m3u8#http://hostengine.live/live/Kellie/Snow/267009.m3u#http://hostengine.live/live/Kellie/Snow/267029.m3u#http://rebrov.tvfor.pro/cHInGolanp/ihwvhvl55bxyc5monync7vjz#https://cdn-main.lolokoko.tv/hustler.stream/chunks.m3u8
+#EXTINF:-1 tvg-name="INTERRACIAL  +18" tvg-logo="https://live.fanmingming.com/tv/INTERRACIAL  +18.png" group-title="直播",INTERRACIAL  +18
+http://joao-1-us.mainbkonline.shop:80/491175347448pw/906956704666/82168#http://joao-1-us.mainbkonline.shop:80/6919834FEW839/981673FEQWE62/82168#http://joao-1-us.mainbkonline.shop:80/6919834FEW839/981673FEQWE62/83246
+#EXTINF:-1 tvg-name="Interracial Red TV" tvg-logo="https://live.fanmingming.com/tv/Interracial Red TV.png" group-title="直播",Interracial Red TV
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6224/index.m3u8
+#EXTINF:-1 tvg-name="INTERRACIAL SURRENDER" tvg-logo="https://live.fanmingming.com/tv/INTERRACIAL SURRENDER.png" group-title="直播",INTERRACIAL SURRENDER
+http://hostengine.live/live/Kellie/Snow/253695.m3u
+#EXTINF:-1 tvg-name="Interracial" tvg-logo="https://live.fanmingming.com/tv/Interracial.png" group-title="直播",Interracial
+http://cdn.adultiptv.net/interracial.m3u8#http://live.redtraffic.xyz/interracial.m3u8#http://cdn.redtraffic.net/interracial.m3u8#http://hostengine.live/live/Kellie/Snow/54641.m3u
+#EXTINF:-1 tvg-name="Japan HDV" tvg-logo="https://live.fanmingming.com/tv/Japan HDV.png" group-title="直播",Japan HDV
+http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6225/index.m3u8#http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6225/index.m3u8#http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6225/index.m3u8#http://unikhtxl.ottclub.xyz/iptv/74SQ72P5LQUZV5/6225/index.m3u8#http://czrb8vng.ottclub.xyz/iptv/8NGWK8STP2978X/6225/index.m3u8#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6225/index.m3u8#http://05293b01.ottolok.net/iptv/5ZBKQAEG9QQXS2/6225/index.m3u8
+#EXTINF:-1 tvg-name="Japanese" tvg-logo="https://live.fanmingming.com/tv/Japanese.png" group-title="直播",Japanese
+http://cdn.adultiptv.net/japanese.m3u8
+#EXTINF:-1 tvg-name="JM : BASHMENT 1" tvg-logo="https://live.fanmingming.com/tv/JM : BASHMENT 1.png" group-title="直播",JM : BASHMENT 1
+http://hostengine.live/live/Kellie/Snow/54598.m3u
+#EXTINF:-1 tvg-name="JM : BASHMENT 2" tvg-logo="https://live.fanmingming.com/tv/JM : BASHMENT 2.png" group-title="直播",JM : BASHMENT 2
+http://hostengine.live/live/Kellie/Snow/54599.m3u
+#EXTINF:-1 tvg-name="JuleJordan TV" tvg-logo="https://live.fanmingming.com/tv/JuleJordan TV.png" group-title="直播",JuleJordan TV
+http://streamsy.online:2999/coachj88/N93DPKS9pJ/1298
+#EXTINF:-1 tvg-name="Kinoshka Adult HD" tvg-logo="https://live.fanmingming.com/tv/Kinoshka Adult HD.png" group-title="直播",Kinoshka Adult HD
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/18060/index.m3u8
+#EXTINF:-1 tvg-name="Latina Girls" tvg-logo="https://live.fanmingming.com/tv/Latina Girls.png" group-title="直播",Latina Girls
+http://live.mycamtv.com/latina.m3u8
+#EXTINF:-1 tvg-name="Latina Red TV" tvg-logo="https://live.fanmingming.com/tv/Latina Red TV.png" group-title="直播",Latina Red TV
+http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6226/index.m3u8#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6226/index.m3u8
+#EXTINF:-1 tvg-name="LATINA TV" tvg-logo="https://live.fanmingming.com/tv/LATINA TV.png" group-title="直播",LATINA TV
+http://cdn.adultiptv.net/latina.m3u8#http://cdn.redtraffic.net/latina.m3u8#http://hostengine.live/live/Kellie/Snow/54642.m3u#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12172/index.m3u8
+#EXTINF:-1 tvg-name="LEO TV FHD" tvg-logo="https://live.fanmingming.com/tv/LEO TV FHD.png" group-title="直播",LEO TV FHD
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12123/index.m3u8#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6272/index.m3u8
+#EXTINF:-1 tvg-name="Lesbea" tvg-logo="https://live.fanmingming.com/tv/Lesbea.png" group-title="直播",Lesbea
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6227/index.m3u8
+#EXTINF:-1 tvg-name="Lesbian Affair" tvg-logo="https://live.fanmingming.com/tv/Lesbian Affair.png" group-title="直播",Lesbian Affair
+http://hostengine.live/live/Kellie/Snow/267073.m3u#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6278/index.m3u8
+#EXTINF:-1 tvg-name="Lesbian Red TV" tvg-logo="https://live.fanmingming.com/tv/Lesbian Red TV.png" group-title="直播",Lesbian Red TV
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6228/index.m3u8
+#EXTINF:-1 tvg-name="Lesbian" tvg-logo="https://live.fanmingming.com/tv/Lesbian.png" group-title="直播",Lesbian
+http://cdn.redtraffic.net/lesbian.m3u8
+#EXTINF:-1 tvg-name="Lesbian" tvg-logo="https://live.fanmingming.com/tv/Lesbian.png" group-title="直播",Lesbian
+http://hostengine.live/live/Kellie/Snow/54643.m3u
+#EXTINF:-1 tvg-name="LesbianX.COM" tvg-logo="https://live.fanmingming.com/tv/LesbianX.COM.png" group-title="直播",LesbianX.COM
+http://hostengine.live/live/Kellie/Snow/253696.m3u
+#EXTINF:-1 tvg-name="Lethal Hardcore" tvg-logo="https://live.fanmingming.com/tv/Lethal Hardcore.png" group-title="直播",Lethal Hardcore
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6229/index.m3u8
+#EXTINF:-1 tvg-name="LETS BANG THE BABYSITTER" tvg-logo="https://live.fanmingming.com/tv/LETS BANG THE BABYSITTER.png" group-title="直播",LETS BANG THE BABYSITTER
+http://hostengine.live/live/Kellie/Snow/253697.m3u
+#EXTINF:-1 tvg-name="Liberty Эротика 4K" tvg-logo="https://live.fanmingming.com/tv/Liberty Эротика 4K.png" group-title="直播",Liberty Эротика 4K
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/16069/index.m3u8
+#EXTINF:-1 tvg-name="Little Asians HD" tvg-logo="https://live.fanmingming.com/tv/Little Asians HD.png" group-title="直播",Little Asians HD
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6230/index.m3u8
+#EXTINF:-1 tvg-name="Little Asians HD" tvg-logo="https://live.fanmingming.com/tv/Little Asians HD.png" group-title="直播",Little Asians HD
+http://hostengine.live/live/Kellie/Snow/253698.m3u
+#EXTINF:-1 tvg-name="Live Cams Adult TV" tvg-logo="https://live.fanmingming.com/tv/Live Cams Adult TV.png" group-title="直播",Live Cams Adult TV
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6231/index.m3u8
+#EXTINF:-1 tvg-name="Live Cams" tvg-logo="https://live.fanmingming.com/tv/Live Cams.png" group-title="直播",Live Cams
+http://cdn.redtraffic.net/livecams.m3u8
+#EXTINF:-1 tvg-name="LOIRAS SAFADAS +18" tvg-logo="https://live.fanmingming.com/tv/LOIRAS SAFADAS +18.png" group-title="直播",LOIRAS SAFADAS +18
+http://joao-1-us.mainbkonline.shop:80/491175347448pw/906956704666/82169#http://joao-1-us.mainbkonline.shop:80/6919834FEW839/981673FEQWE62/82169
+#EXTINF:-1 tvg-name="Lust Cinema" tvg-logo="https://live.fanmingming.com/tv/Lust Cinema.png" group-title="直播",Lust Cinema
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6232/index.m3u8
+#EXTINF:-1 tvg-name="MARRIED AND CHEATING" tvg-logo="https://live.fanmingming.com/tv/MARRIED AND CHEATING.png" group-title="直播",MARRIED AND CHEATING
+http://hostengine.live/live/Kellie/Snow/253699.m3u
+#EXTINF:-1 tvg-name="Mature" tvg-logo="https://live.fanmingming.com/tv/Mature.png" group-title="直播",Mature
+http://live.mycamtv.com/bigtits.m3u8
+#EXTINF:-1 tvg-name="Medium Girls" tvg-logo="https://live.fanmingming.com/tv/Medium Girls.png" group-title="直播",Medium Girls
+http://live.mycamtv.com/medium.m3u8
+#EXTINF:-1 tvg-name="Meiden Van Holland HARD" tvg-logo="https://live.fanmingming.com/tv/Meiden Van Holland HARD.png" group-title="直播",Meiden Van Holland HARD
+http://hostengine.live/live/Kellie/Snow/267055.m3u
+#EXTINF:-1 tvg-name="Meiden Van Holland" tvg-logo="https://live.fanmingming.com/tv/Meiden Van Holland.png" group-title="直播",Meiden Van Holland
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12125/index.m3u8
+#EXTINF:-1 tvg-name="MetArt HD" tvg-logo="https://live.fanmingming.com/tv/MetArt HD.png" group-title="直播",MetArt HD
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12160/index.m3u8#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6233/index.m3u8
+#EXTINF:-1 tvg-name="MIA KHALIFA +18" tvg-logo="https://live.fanmingming.com/tv/MIA KHALIFA +18.png" group-title="直播",MIA KHALIFA +18
+http://joao-1-us.mainbkonline.shop:80/491175347448pw/906956704666/76713#http://joao-1-us.mainbkonline.shop:80/6919834FEW839/981673FEQWE62/76713
+#EXTINF:-1 tvg-name="MIAMI TV JENNY LIVE" tvg-logo="https://live.fanmingming.com/tv/MIAMI TV JENNY LIVE.png" group-title="直播",MIAMI TV JENNY LIVE
+http://hostengine.live/live/Kellie/Snow/54610.m3u
+#EXTINF:-1 tvg-name="MIAMI TV LATINO" tvg-logo="https://live.fanmingming.com/tv/MIAMI TV LATINO.png" group-title="直播",MIAMI TV LATINO
+http://hostengine.live/live/Kellie/Snow/54611.m3u
+#EXTINF:-1 tvg-name="MIAMI TV LIVE" tvg-logo="https://live.fanmingming.com/tv/MIAMI TV LIVE.png" group-title="直播",MIAMI TV LIVE
+http://hostengine.live/live/Kellie/Snow/54612.m3u
+#EXTINF:-1 tvg-name="MIAMI TV" tvg-logo="https://live.fanmingming.com/tv/MIAMI TV.png" group-title="直播",MIAMI TV
+http://hostengine.live/live/Kellie/Snow/54609.m3u
+#EXTINF:-1 tvg-name="MILF Red TV" tvg-logo="https://live.fanmingming.com/tv/MILF Red TV.png" group-title="直播",MILF Red TV
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6234/index.m3u8
+#EXTINF:-1 tvg-name="MILF TV" tvg-logo="https://live.fanmingming.com/tv/MILF TV.png" group-title="直播",MILF TV
+http://hostengine.live/live/Kellie/Snow/267071.m3u#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12173/index.m3u8
+#EXTINF:-1 tvg-name="MILF" tvg-logo="https://live.fanmingming.com/tv/MILF.png" group-title="直播",MILF
+http://cdn.adultiptv.net/milf.m3u8#http://live.mycamtv.com/milf.m3u8#http://live.redtraffic.xyz/milf.m3u8#http://cdn.redtraffic.net/milf.m3u8#http://hostengine.live/live/Kellie/Snow/54644.m3u
+#EXTINF:-1 tvg-name="MOMS IN CONTROL" tvg-logo="https://live.fanmingming.com/tv/MOMS IN CONTROL.png" group-title="直播",MOMS IN CONTROL
+http://hostengine.live/live/Kellie/Snow/253700.m3u
+#EXTINF:-1 tvg-name="Monsters of Cock" tvg-logo="https://live.fanmingming.com/tv/Monsters of Cock.png" group-title="直播",Monsters of Cock
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6235/index.m3u8
+#EXTINF:-1 tvg-name="MR BABE DEEPFAKES" tvg-logo="https://live.fanmingming.com/tv/MR BABE DEEPFAKES.png" group-title="直播",MR BABE DEEPFAKES
+http://hostengine.live/live/Kellie/Snow/253701.m3u
+#EXTINF:-1 tvg-name="MvH Hard" tvg-logo="https://live.fanmingming.com/tv/MvH Hard.png" group-title="直播",MvH Hard
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6297/index.m3u8
+#EXTINF:-1 tvg-name="MY BOYFRIENDS DAD MAKES ME CUM" tvg-logo="https://live.fanmingming.com/tv/MY BOYFRIENDS DAD MAKES ME CUM.png" group-title="直播",MY BOYFRIENDS DAD MAKES ME CUM
+http://hostengine.live/live/Kellie/Snow/253702.m3u
+#EXTINF:-1 tvg-name="MYLF TV HD" tvg-logo="https://live.fanmingming.com/tv/MYLF TV HD.png" group-title="直播",MYLF TV HD
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6236/index.m3u8
+#EXTINF:-1 tvg-name="N1ADULT HD" tvg-logo="https://live.fanmingming.com/tv/N1ADULT HD.png" group-title="直播",N1ADULT HD
+http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:D3:03&stream=773978&extension=ts&play_token=VFnUEDgvPl
+#EXTINF:-1 tvg-name="NAUGHTY AMERICA" tvg-logo="https://live.fanmingming.com/tv/NAUGHTY AMERICA.png" group-title="直播",NAUGHTY AMERICA
+http://hostengine.live/live/Kellie/Snow/253703.m3u#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6237/index.m3u8
+#EXTINF:-1 tvg-name="NAUGHTY TV" tvg-logo="https://live.fanmingming.com/tv/NAUGHTY TV.png" group-title="直播",NAUGHTY TV
+http://hostengine.live/live/Kellie/Snow/267076.m3u
+#EXTINF:-1 tvg-name="NET XX" tvg-logo="https://live.fanmingming.com/tv/NET XX.png" group-title="直播",NET XX
+http://hostengine.live/live/Kellie/Snow/267027.m3u
+#EXTINF:-1 tvg-name="NINFETAS BR +18" tvg-logo="https://live.fanmingming.com/tv/NINFETAS BR +18.png" group-title="直播",NINFETAS BR +18
+http://joao-1-us.mainbkonline.shop:80/6919834FEW839/981673FEQWE62/82170
+#EXTINF:-1 tvg-name="New Sensatings +18" tvg-logo="https://live.fanmingming.com/tv/New Sensatings +18.png" group-title="直播",New Sensatings +18
+http://joao-1-us.mainbkonline.shop:80/6919834FEW839/981673FEQWE62/83244
+#EXTINF:-1 tvg-name="NUART TV" tvg-logo="https://live.fanmingming.com/tv/NUART TV.png" group-title="直播",NUART TV
+http://hostengine.live/live/Kellie/Snow/267082.m3u#http://hostengine.live/live/Kellie/Snow/267006.m3u
+#EXTINF:-1 tvg-name="Nubiles TV HD" tvg-logo="https://live.fanmingming.com/tv/Nubiles TV HD.png" group-title="直播",Nubiles TV HD
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6238/index.m3u8
+#EXTINF:-1 tvg-name="O LA LA TV" tvg-logo="https://live.fanmingming.com/tv/O LA LA TV.png" group-title="直播",O LA LA TV
+http://195.181.160.177:8000/dEnteRNaCt?token=ihwvhvl55bxyc5monync7vjz#http://94.232.104.237:8000/play/310/index.m3u8#http://hostengine.live/live/Kellie/Snow/267081.m3u
+#EXTINF:-1 tvg-name="O TV" tvg-logo="https://live.fanmingming.com/tv/O TV.png" group-title="直播",O TV
+http://hostengine.live/live/Kellie/Snow/267025.m3u
+#EXTINF:-1 tvg-name="O LA LA orig" tvg-logo="https://live.fanmingming.com/tv/O LA LA orig.png" group-title="直播",O LA LA orig
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/9068/index.m3u8
+#EXTINF:-1 tvg-name="OLDTIMER" tvg-logo="https://live.fanmingming.com/tv/OLDTIMER.png" group-title="直播",OLDTIMER
+http://hostengine.live/live/Kellie/Snow/267012.m3u
+#EXTINF:-1 tvg-name="OLDTIMER" tvg-logo="https://live.fanmingming.com/tv/OLDTIMER.png" group-title="直播",OLDTIMER
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6279/index.m3u8
+#EXTINF:-1 tvg-name="ox-ax HD" tvg-logo="https://live.fanmingming.com/tv/ox-ax HD.png" group-title="直播",ox-ax HD
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6239/index.m3u8
+#EXTINF:-1 tvg-name="PASSIE TV" tvg-logo="https://live.fanmingming.com/tv/PASSIE TV.png" group-title="直播",PASSIE TV
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12136/index.m3u8
+#EXTINF:-1 tvg-name="PASSIE XXX" tvg-logo="https://live.fanmingming.com/tv/PASSIE XXX.png" group-title="直播",PASSIE XXX
+http://hostengine.live/live/Kellie/Snow/267018.m3u#https://skywatch.club:8443/play/QAkHqYPACG3ZLU9YN1CimeabS_OspI9G0DVlKr3lsfw
+#EXTINF:-1 tvg-name="PASSION XXX" tvg-logo="https://live.fanmingming.com/tv/PASSION XXX.png" group-title="直播",PASSION XXX
+http://hostengine.live/live/Kellie/Snow/267008.m3u#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12120/index.m3u8
+#EXTINF:-1 tvg-name="PENTHOUSE 2" tvg-logo="https://live.fanmingming.com/tv/PENTHOUSE 2.png" group-title="直播",PENTHOUSE 2
+http://51.159.102.100/PenthouseGold/index.m3u8
+#EXTINF:-1 tvg-name="PENTHOUSE BLACK TV" tvg-logo="https://live.fanmingming.com/tv/PENTHOUSE BLACK TV.png" group-title="直播",PENTHOUSE BLACK TV
+http://hostengine.live/live/Kellie/Snow/267086.m3u
+#EXTINF:-1 tvg-name="PENTHOUSE GOLD" tvg-logo="https://live.fanmingming.com/tv/PENTHOUSE GOLD.png" group-title="直播",PENTHOUSE GOLD
+http://hostengine.live/live/Kellie/Snow/267038.m3u
+#EXTINF:-1 tvg-name="Penthouse Passion HD" tvg-logo="https://live.fanmingming.com/tv/Penthouse Passion HD.png" group-title="直播",Penthouse Passion HD
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/1073/index.m3u8
+#EXTINF:-1 tvg-name="PENTHOUSE PASSION" tvg-logo="https://live.fanmingming.com/tv/PENTHOUSE PASSION.png" group-title="直播",PENTHOUSE PASSION
+http://hostengine.live/live/Kellie/Snow/267040.m3u
+#EXTINF:-1 tvg-name="PENTHOUSE QUICKIES" tvg-logo="https://live.fanmingming.com/tv/PENTHOUSE QUICKIES.png" group-title="直播",PENTHOUSE QUICKIES
+http://hostengine.live/live/Kellie/Snow/267015.m3u#http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+#EXTINF:-1 tvg-name="PLAYBOY EUROPE" tvg-logo="https://live.fanmingming.com/tv/PLAYBOY EUROPE.png" group-title="直播",PLAYBOY EUROPE
+http://hostengine.live/live/Kellie/Snow/267053.m3u
+#EXTINF:-1 tvg-name="PLAYBOY FHD" tvg-logo="https://live.fanmingming.com/tv/PLAYBOY FHD.png" group-title="直播",PLAYBOY FHD
+http://joao-1-us.mainbkonline.shop:80/6919834FEW839/981673FEQWE62/872
+#EXTINF:-1 tvg-name="PLAYBOY LA" tvg-logo="https://live.fanmingming.com/tv/PLAYBOY LA.png" group-title="直播",PLAYBOY LA
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6280/index.m3u8
+#EXTINF:-1 tvg-name="PLAYBOY Plus" tvg-logo="https://live.fanmingming.com/tv/PLAYBOY Plus.png" group-title="直播",PLAYBOY Plus
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6242/index.m3u8
+#EXTINF:-1 tvg-name="PLAYBOY TV (18+)" tvg-logo="https://live.fanmingming.com/tv/PLAYBOY TV (18+).png" group-title="直播",PLAYBOY TV (18+)
+http://hostengine.live/live/Kellie/Snow/245372.m3u
+#EXTINF:-1 tvg-name="PLAYBOY TV" tvg-logo="https://live.fanmingming.com/tv/PLAYBOY TV.png" group-title="直播",PLAYBOY TV
+http://hostengine.live/live/Kellie/Snow/267078.m3u#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12135/index.m3u8
+#EXTINF:-1 tvg-name="PLAYBOY TV2" tvg-logo="https://live.fanmingming.com/tv/PLAYBOY TV2.png" group-title="直播",PLAYBOY TV2
+http://hostengine.live/live/Kellie/Snow/267042.m3u
+#EXTINF:-1 tvg-name="PLAYBOY" tvg-logo="https://live.fanmingming.com/tv/PLAYBOY.png" group-title="直播",PLAYBOY
+http://195.181.160.177:8000/slEStOnTic?token=ihwvhvl55bxyc5monync7vjz#http://23.237.100.82:8000/PLAYBOY/index.m3u8
+#EXTINF:-1 tvg-name="PLAYHOUSE" tvg-logo="https://live.fanmingming.com/tv/PLAYHOUSE.png" group-title="直播",PLAYHOUSE
+http://hostengine.live/live/Kellie/Snow/267070.m3u
+#EXTINF:-1 tvg-name="Pornstar Red TV" tvg-logo="https://live.fanmingming.com/tv/Pornstar Red TV.png" group-title="直播",Pornstar Red TV
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6243/index.m3u8
+#EXTINF:-1 tvg-name="PORNSTAR TV" tvg-logo="https://live.fanmingming.com/tv/PORNSTAR TV.png" group-title="直播",PORNSTAR TV
+http://cdn.redtraffic.net/pornstar.m3u8#http://hostengine.live/live/Kellie/Snow/54645.m3u#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12174/index.m3u8
+#EXTINF:-1 tvg-name="POV Adult TV" tvg-logo="https://live.fanmingming.com/tv/POV Adult TV.png" group-title="直播",POV Adult TV
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6244/index.m3u8
+#EXTINF:-1 tvg-name="POV" tvg-logo="https://live.fanmingming.com/tv/POV.png" group-title="直播",POV
+http://cdn.redtraffic.net/pov.m3u8#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12175/index.m3u8#http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6244/index.m3u8#http://live.redtraffic.xyz/pov.m3u8#http://cdn.adultiptv.net/pov.m3u8#http://hostengine.live/live/Kellie/Snow/54646.m3u
+#EXTINF:-1 tvg-name="Private HD" tvg-logo="https://live.fanmingming.com/tv/Private HD.png" group-title="直播",Private HD
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6245/index.m3u8
+#EXTINF:-1 tvg-name="Private HD" tvg-logo="https://live.fanmingming.com/tv/Private HD.png" group-title="直播",Private HD
+http://213.226.69.130/iptv/BF9GWX8VNPYM9X/243/index.m3u8#http://hostengine.live/live/Kellie/Snow/267021.m3u#https://cdn-main.lolokoko.tv/private.stream/chunks.m3u8
+#EXTINF:-1 tvg-name="PRIVE TV" tvg-logo="https://live.fanmingming.com/tv/PRIVE TV.png" group-title="直播",PRIVE TV
+http://hostengine.live/live/Kellie/Snow/267010.m3u
+#EXTINF:-1 tvg-name="Prokop TV XXX" tvg-logo="https://live.fanmingming.com/tv/Prokop TV XXX.png" group-title="直播",Prokop TV XXX
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/19401/index.m3u8
+#EXTINF:-1 tvg-name="Public Agent" tvg-logo="https://live.fanmingming.com/tv/Public Agent.png" group-title="直播",Public Agent
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6246/index.m3u8
+#EXTINF:-1 tvg-name="PURE BABES" tvg-logo="https://live.fanmingming.com/tv/PURE BABES.png" group-title="直播",PURE BABES
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12112/index.m3u8
+#EXTINF:-1 tvg-name="PURE BBW" tvg-logo="https://live.fanmingming.com/tv/PURE BBW.png" group-title="直播",PURE BBW
+http://hostengine.live/live/Kellie/Snow/253704.m3u
+#EXTINF:-1 tvg-name="PURE MILF" tvg-logo="https://live.fanmingming.com/tv/PURE MILF.png" group-title="直播",PURE MILF
+http://hostengine.live/live/Kellie/Snow/253705.m3u
+#EXTINF:-1 tvg-name="Pure Taboo" tvg-logo="https://live.fanmingming.com/tv/Pure Taboo.png" group-title="直播",Pure Taboo
+http://78.47.224.234/puretaboo/index.m3u8
+#EXTINF:-1 tvg-name="REAL EX GIRLFRIENDS" tvg-logo="https://live.fanmingming.com/tv/REAL EX GIRLFRIENDS.png" group-title="直播",REAL EX GIRLFRIENDS
+http://hostengine.live/live/Kellie/Snow/253707.m3u
+#EXTINF:-1 tvg-name="REAL MILFS" tvg-logo="https://live.fanmingming.com/tv/REAL MILFS.png" group-title="直播",REAL MILFS
+http://hostengine.live/live/Kellie/Snow/253706.m3u
+#EXTINF:-1 tvg-name="Reality Kings HD" tvg-logo="https://live.fanmingming.com/tv/Reality Kings HD.png" group-title="直播",Reality Kings HD
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6247/index.m3u8
+#EXTINF:-1 tvg-name="Reality Kings HD" tvg-logo="https://live.fanmingming.com/tv/Reality Kings HD.png" group-title="直播",Reality Kings HD
+http://hostengine.live/live/Kellie/Snow/267030.m3u
+#EXTINF:-1 tvg-name="RED Lips" tvg-logo="https://live.fanmingming.com/tv/RED Lips.png" group-title="直播",RED Lips
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6271/index.m3u8
+#EXTINF:-1 tvg-name="RED XXX" tvg-logo="https://live.fanmingming.com/tv/RED XXX.png" group-title="直播",RED XXX
+http://hostengine.live/live/Kellie/Snow/267019.m3u#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6281/index.m3u8
+#EXTINF:-1 tvg-name="Redlight HD" tvg-logo="https://live.fanmingming.com/tv/Redlight HD.png" group-title="直播",Redlight HD
+https://cdn-main.lolokoko.tv/redlight.stream/chunks.m3u8#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/9066/index.m3u8#http://213.226.69.130/iptv/BF9GWX8VNPYM9X/242/index.m3u8
+#EXTINF:-1 tvg-name="Redlight HD" tvg-logo="https://live.fanmingming.com/tv/Redlight HD.png" group-title="直播",Redlight HD
+http://hostengine.live/live/Kellie/Snow/267017.m3u
+#EXTINF:-1 tvg-name="RETRO +18" tvg-logo="https://live.fanmingming.com/tv/RETRO +18.png" group-title="直播",RETRO +18
+http://joao-1-us.mainbkonline.shop:80/491175347448pw/906956704666/82171#http://joao-1-us.mainbkonline.shop:80/6919834FEW839/981673FEQWE62/82171
+#EXTINF:-1 tvg-name="RISSA MAXXX" tvg-logo="https://live.fanmingming.com/tv/RISSA MAXXX.png" group-title="直播",RISSA MAXXX
+http://hostengine.live/live/Kellie/Snow/54665.m3u
+#EXTINF:-1 tvg-name="RK Prime" tvg-logo="https://live.fanmingming.com/tv/RK Prime.png" group-title="直播",RK Prime
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6248/index.m3u8
+#EXTINF:-1 tvg-name="RK TV" tvg-logo="https://live.fanmingming.com/tv/RK TV.png" group-title="直播",RK TV
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6249/index.m3u8
+#EXTINF:-1 tvg-name="Rough Adult TV" tvg-logo="https://live.fanmingming.com/tv/Rough Adult TV.png" group-title="直播",Rough Adult TV
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6250/index.m3u8
+#EXTINF:-1 tvg-name="Rough TV" tvg-logo="https://live.fanmingming.com/tv/Rough TV.png" group-title="直播",Rough TV
+http://cdn.adultiptv.net/rough.m3u8#http://cdn.redtraffic.net/rough.m3u8#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12176/index.m3u8
+#EXTINF:-1 tvg-name="RUDEBOIZ (GAY)" tvg-logo="https://live.fanmingming.com/tv/RUDEBOIZ (GAY).png" group-title="直播",RUDEBOIZ (GAY)
+http://hostengine.live/live/Kellie/Snow/253708.m3u
+#EXTINF:-1 tvg-name="RUIVAS +18" tvg-logo="https://live.fanmingming.com/tv/RUIVAS +18.png" group-title="直播",RUIVAS +18
+http://joao-1-us.mainbkonline.shop:80/6919834FEW839/981673FEQWE62/83247
+#EXTINF:-1 tvg-name="RUSSIAN Adult TV" tvg-logo="https://live.fanmingming.com/tv/RUSSIAN Adult TV.png" group-title="直播",RUSSIAN Adult TV
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6251/index.m3u8
+#EXTINF:-1 tvg-name="RUSSIAN NIGHT" tvg-logo="https://live.fanmingming.com/tv/RUSSIAN NIGHT.png" group-title="直播",RUSSIAN NIGHT
+http://hostengine.live/live/Kellie/Snow/267037.m3u#http://hostengine.live/live/Kellie/Snow/267060.m3u
+#EXTINF:-1 tvg-name="RUSSIAN TV" tvg-logo="https://live.fanmingming.com/tv/RUSSIAN TV.png" group-title="直播",RUSSIAN TV
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12177/index.m3u8
+#EXTINF:-1 tvg-name="RUSSIAN TV" tvg-logo="https://live.fanmingming.com/tv/RUSSIAN TV.png" group-title="直播",RUSSIAN TV
+http://cdn.redtraffic.net/russian.m3u8#http://hostengine.live/live/Kellie/Snow/54647.m3u
+#EXTINF:-1 tvg-name="SCT CLASSIC" tvg-logo="https://live.fanmingming.com/tv/SCT CLASSIC.png" group-title="直播",SCT CLASSIC
+http://hostengine.live/live/Kellie/Snow/267052.m3u
+#EXTINF:-1 tvg-name="SCOUT69 +18" tvg-logo="https://live.fanmingming.com/tv/SCOUT69 +18.png" group-title="直播",SCOUT69 +18
+http://joao-1-us.mainbkonline.shop:80/6919834FEW839/981673FEQWE62/83251
+#EXTINF:-1 tvg-name="SECRET CIRCLE TV" tvg-logo="https://live.fanmingming.com/tv/SECRET CIRCLE TV.png" group-title="直播",SECRET CIRCLE TV
+http://hostengine.live/live/Kellie/Snow/267077.m3u
+#EXTINF:-1 tvg-name="SEX ATION" tvg-logo="https://live.fanmingming.com/tv/SEX ATION.png" group-title="直播",SEX ATION
+http://hostengine.live/live/Kellie/Snow/267045.m3u
+#EXTINF:-1 tvg-name="SEX PRIVE FHD" tvg-logo="https://live.fanmingming.com/tv/SEX PRIVE FHD.png" group-title="直播",SEX PRIVE FHD
+http://joao-1-us.mainbkonline.shop:80/6919834FEW839/981673FEQWE62/873
+#EXTINF:-1 tvg-name="SEX Treme TV" tvg-logo="https://live.fanmingming.com/tv/SEX Treme TV.png" group-title="直播",SEX Treme TV
+http://streamsy.online:2999/coachj88/N93DPKS9pJ/750
+#EXTINF:-1 tvg-name="SEX With Muslims" tvg-logo="https://live.fanmingming.com/tv/SEX With Muslims.png" group-title="直播",SEX With Muslims
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6252/index.m3u8
+#EXTINF:-1 tvg-name="SEXArt" tvg-logo="https://live.fanmingming.com/tv/SEXArt.png" group-title="直播",SEXArt
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6253/index.m3u8
+#EXTINF:-1 tvg-name="SEXO NA PRAIA +18" tvg-logo="https://live.fanmingming.com/tv/SEXO NA PRAIA +18.png" group-title="直播",SEXO NA PRAIA +18
+http://joao-1-us.mainbkonline.shop:80/6919834FEW839/981673FEQWE62/83248
+#EXTINF:-1 tvg-name="SEXT AND SENSO" tvg-logo="https://live.fanmingming.com/tv/SEXT AND SENSO.png" group-title="直播",SEXT AND SENSO
+http://hostengine.live/live/Kellie/Snow/267051.m3u
+#EXTINF:-1 tvg-name="SEXTREME" tvg-logo="https://live.fanmingming.com/tv/SEXTREME.png" group-title="直播",SEXTREME
+http://hostengine.live/live/Kellie/Snow/267058.m3u
+#EXTINF:-1 tvg-name="SEXY HOT" tvg-logo="https://live.fanmingming.com/tv/SEXY HOT.png" group-title="直播",SEXY HOT
+http://hostengine.live/live/Kellie/Snow/267059.m3u#http://joao-1-us.mainbkonline.shop:80/6919834FEW839/981673FEQWE62/126#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6282/index.m3u8
+#EXTINF:-1 tvg-name="SHAYENNE SAMARA +18" tvg-logo="https://live.fanmingming.com/tv/SHAYENNE SAMARA +18.png" group-title="直播",SHAYENNE SAMARA +18
+http://joao-1-us.mainbkonline.shop:80/6919834FEW839/981673FEQWE62/76715
+#EXTINF:-1 tvg-name="SHEMALE ACCESS" tvg-logo="https://live.fanmingming.com/tv/SHEMALE ACCESS.png" group-title="直播",SHEMALE ACCESS
+http://hostengine.live/live/Kellie/Snow/253709.m3u
+#EXTINF:-1 tvg-name="SHOPLYFTER" tvg-logo="https://live.fanmingming.com/tv/SHOPLYFTER.png" group-title="直播",SHOPLYFTER
+http://hostengine.live/live/Kellie/Snow/253710.m3u
+#EXTINF:-1 tvg-name="SINematica" tvg-logo="https://live.fanmingming.com/tv/SINematica.png" group-title="直播",SINematica
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6255/index.m3u8
+#EXTINF:-1 tvg-name="Sislovesme TV" tvg-logo="https://live.fanmingming.com/tv/Sislovesme TV.png" group-title="直播",Sislovesme TV
+http://streamsy.online:2999/coachj88/N93DPKS9pJ/276
+#EXTINF:-1 tvg-name="Skinny Girls" tvg-logo="https://live.fanmingming.com/tv/Skinny Girls.png" group-title="直播",Skinny Girls
+http://live.mycamtv.com/skinny.m3u8
+#EXTINF:-1 tvg-name="SKY HIGH ADULT HD" tvg-logo="https://live.fanmingming.com/tv/SKY HIGH ADULT HD.png" group-title="直播",SKY HIGH ADULT HD
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/15166/index.m3u8
+#EXTINF:-1 tvg-name="SKY HIGH SEX VR" tvg-logo="https://live.fanmingming.com/tv/SKY HIGH SEX VR.png" group-title="直播",SKY HIGH SEX VR
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/19406/index.m3u8
+#EXTINF:-1 tvg-name="SL HOT-1" tvg-logo="https://live.fanmingming.com/tv/SL HOT-1.png" group-title="直播",SL HOT-1
+http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=128764&extension=ts&play_token=VFnUEDgvPl
+#EXTINF:-1 tvg-name="SL HOT-2" tvg-logo="https://live.fanmingming.com/tv/SL HOT-2.png" group-title="直播",SL HOT-2
+http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=267612&extension=ts&play_token=VFnUEDgvPl
+#EXTINF:-1 tvg-name="SL HOT-3" tvg-logo="https://live.fanmingming.com/tv/SL HOT-3.png" group-title="直播",SL HOT-3
+http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=128770&extension=ts&play_token=VFnUEDgvPl
+#EXTINF:-1 tvg-name="SL HOT-4" tvg-logo="https://live.fanmingming.com/tv/SL HOT-4.png" group-title="直播",SL HOT-4
+http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=138510&extension=ts&play_token=VFnUEDgvPl
+#EXTINF:-1 tvg-name="SL HOT-5" tvg-logo="https://live.fanmingming.com/tv/SL HOT-5.png" group-title="直播",SL HOT-5
+http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=138526&extension=ts&play_token=VFnUEDgvPl
+#EXTINF:-1 tvg-name="SL HOT-6" tvg-logo="https://live.fanmingming.com/tv/SL HOT-6.png" group-title="直播",SL HOT-6
+http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=138504&extension=ts&play_token=VFnUEDgvPl
+#EXTINF:-1 tvg-name="SL HOT-7" tvg-logo="https://live.fanmingming.com/tv/SL HOT-7.png" group-title="直播",SL HOT-7
+http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=309877&extension=ts&play_token=VFnUEDgvPl
+#EXTINF:-1 tvg-name="SL HOT-8" tvg-logo="https://live.fanmingming.com/tv/SL HOT-8.png" group-title="直播",SL HOT-8
+http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=309870&extension=ts&play_token=VFnUEDgvPl
+#EXTINF:-1 tvg-name="SL HOT-9" tvg-logo="https://live.fanmingming.com/tv/SL HOT-9.png" group-title="直播",SL HOT-9
+http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=309869&extension=ts&play_token=VFnUEDgvPl
+#EXTINF:-1 tvg-name="SPECIAL DARK" tvg-logo="https://live.fanmingming.com/tv/SPECIAL DARK.png" group-title="直播",SPECIAL DARK
+http://hostengine.live/live/Kellie/Snow/253711.m3u
+#EXTINF:-1 tvg-name="SPYFAM" tvg-logo="https://live.fanmingming.com/tv/SPYFAM.png" group-title="直播",SPYFAM
+http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=774048&extension=ts&play_token=VFnUEDgvPl
+#EXTINF:-1 tvg-name="STARS XXX" tvg-logo="https://live.fanmingming.com/tv/STARS XXX.png" group-title="直播",STARS XXX
+http://hostengine.live/live/Kellie/Snow/267088.m3u
+#EXTINF:-1 tvg-name="STEP SIBLINGS CAUGHT" tvg-logo="https://live.fanmingming.com/tv/STEP SIBLINGS CAUGHT.png" group-title="直播",STEP SIBLINGS CAUGHT
+http://hostengine.live/live/Kellie/Snow/253713.m3u
+#EXTINF:-1 tvg-name="STEPMOM LESSONS" tvg-logo="https://live.fanmingming.com/tv/STEPMOM LESSONS.png" group-title="直播",STEPMOM LESSONS
+http://hostengine.live/live/Kellie/Snow/253712.m3u
+#EXTINF:-1 tvg-name="SUBMISSIVED" tvg-logo="https://live.fanmingming.com/tv/SUBMISSIVED.png" group-title="直播",SUBMISSIVED
+http://hostengine.live/live/Kellie/Snow/253714.m3u
+#EXTINF:-1 tvg-name="SUPER ONE" tvg-logo="https://live.fanmingming.com/tv/SUPER ONE.png" group-title="直播",SUPER ONE
+http://hostengine.live/live/Kellie/Snow/267041.m3u#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12121/index.m3u8#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6298/index.m3u8
+#EXTINF:-1 tvg-name="SURUBA CASEIRA +18" tvg-logo="https://live.fanmingming.com/tv/SURUBA CASEIRA +18.png" group-title="直播",SURUBA CASEIRA +18
+http://joao-1-us.mainbkonline.shop:80/6919834FEW839/981673FEQWE62/83249
+#EXTINF:-1 tvg-name="TABOO" tvg-logo="https://live.fanmingming.com/tv/TABOO.png" group-title="直播",TABOO
+http://hostengine.live/live/Kellie/Snow/267069.m3u#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6283/index.m3u8
+#EXTINF:-1 tvg-name="TEEN FIDELITY" tvg-logo="https://live.fanmingming.com/tv/TEEN FIDELITY.png" group-title="直播",TEEN FIDELITY
+http://hostengine.live/live/Kellie/Snow/253717.m3u
+#EXTINF:-1 tvg-name="TEEN FILIPINA" tvg-logo="https://live.fanmingming.com/tv/TEEN FILIPINA.png" group-title="直播",TEEN FILIPINA
+http://hostengine.live/live/Kellie/Snow/253716.m3u
+#EXTINF:-1 tvg-name="TEEN Girls" tvg-logo="https://live.fanmingming.com/tv/TEEN Girls.png" group-title="直播",TEEN Girls
+http://live.mycamtv.com/teen.m3u8
+#EXTINF:-1 tvg-name="TEEN Red TV" tvg-logo="https://live.fanmingming.com/tv/TEEN Red TV.png" group-title="直播",TEEN Red TV
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6256/index.m3u8
+#EXTINF:-1 tvg-name="TEEN" tvg-logo="https://live.fanmingming.com/tv/TEEN.png" group-title="直播",TEEN
+http://cdn.redtraffic.net/teen.m3u8#http://hostengine.live/live/Kellie/Snow/54648.m3u
+#EXTINF:-1 tvg-name="TEENAGE AUDITIONS" tvg-logo="https://live.fanmingming.com/tv/TEENAGE AUDITIONS.png" group-title="直播",TEENAGE AUDITIONS
+http://hostengine.live/live/Kellie/Snow/253718.m3u
+#EXTINF:-1 tvg-name="THREESOM Red TV" tvg-logo="https://live.fanmingming.com/tv/THREESOM Red TV.png" group-title="直播",THREESOM Red TV
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6257/index.m3u8
+#EXTINF:-1 tvg-name="THREESOM" tvg-logo="https://live.fanmingming.com/tv/THREESOM.png" group-title="直播",THREESOM
+http://cdn.redtraffic.net/threesome.m3u8
+#EXTINF:-1 tvg-name="THREESOME FANTASIES FULFILLED" tvg-logo="https://live.fanmingming.com/tv/THREESOME FANTASIES FULFILLED.png" group-title="直播",THREESOME FANTASIES FULFILLED
+http://hostengine.live/live/Kellie/Snow/253719.m3u
+#EXTINF:-1 tvg-name="THREESOME TV" tvg-logo="https://live.fanmingming.com/tv/THREESOME TV.png" group-title="直播",THREESOME TV
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12180/index.m3u8
+#EXTINF:-1 tvg-name="THREESOME TV" tvg-logo="https://live.fanmingming.com/tv/THREESOME TV.png" group-title="直播",THREESOME TV
+http://hostengine.live/live/Kellie/Snow/54649.m3u
+#EXTINF:-1 tvg-name="THREESOME TV" tvg-logo="https://live.fanmingming.com/tv/THREESOME TV.png" group-title="直播",THREESOME TV
+https://ch.iptvmate.net/6271f235201e84f419b00bb517a66580.m3u8?
+#EXTINF:-1 tvg-name="TINY TV" tvg-logo="https://live.fanmingming.com/tv/TINY TV.png" group-title="直播",TINY TV
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6258/index.m3u8#http://streamsy.online:2999/coachj88/N93DPKS9pJ/468
+#EXTINF:-1 tvg-name="Trans 2" tvg-logo="https://live.fanmingming.com/tv/Trans 2.png" group-title="直播",Trans 2
+https://skywatch.club:8443/play/QAkHqYPACG3ZLU9YN1CimSYw0w8wNKa5nk7qng1Y8xY
+#EXTINF:-1 tvg-name="Trans Angels" tvg-logo="https://live.fanmingming.com/tv/Trans Angels.png" group-title="直播",Trans Angels
+https://skywatch.club:8443/play/QAkHqYPACG3ZLU9YN1Cimfax3hn3-i8lWbdguZpt998#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6259/index.m3u8
+#EXTINF:-1 tvg-name="TRANSEXUAL +18" tvg-logo="https://live.fanmingming.com/tv/TRANSEXUAL +18.png" group-title="直播",TRANSEXUAL +18
+http://joao-1-us.mainbkonline.shop:80/6919834FEW839/981673FEQWE62/83250
+#EXTINF:-1 tvg-name="True Amateurs" tvg-logo="https://live.fanmingming.com/tv/True Amateurs.png" group-title="直播",True Amateurs
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6260/index.m3u8
+#EXTINF:-1 tvg-name="TS FACTOR" tvg-logo="https://live.fanmingming.com/tv/TS FACTOR.png" group-title="直播",TS FACTOR
+http://hostengine.live/live/Kellie/Snow/253715.m3u
+#EXTINF:-1 tvg-name="TUSHY TV" tvg-logo="https://live.fanmingming.com/tv/TUSHY TV.png" group-title="直播",TUSHY TV
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6261/index.m3u8
+#EXTINF:-1 tvg-name="TUSHY TV" tvg-logo="https://live.fanmingming.com/tv/TUSHY TV.png" group-title="直播",TUSHY TV
+http://hostengine.live/live/Kellie/Snow/253720.m3u#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12188/index.m3u8
+#EXTINF:-1 tvg-name="TUSHY RAW" tvg-logo="https://live.fanmingming.com/tv/TUSHY RAW.png" group-title="直播",TUSHY RAW
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6262/index.m3u8
+#EXTINF:-1 tvg-name="U PLAY" tvg-logo="https://live.fanmingming.com/tv/U PLAY.png" group-title="直播",U PLAY
+http://dns.p2.wtf/maria1305/1305maria/97843
+#EXTINF:-1 tvg-name="Venus HD" tvg-logo="https://live.fanmingming.com/tv/Venus HD.png" group-title="直播",Venus HD
+http://168.181.122.234:8000/play/a027/index.m3u8#http://streamsy.online:2999/coachj88/N93DPKS9pJ/1035#http://hostengine.live/live/Kellie/Snow/267023.m3u#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12133/index.m3u8#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6284/index.m3u8
+#EXTINF:-1 tvg-name="VERAPORN 4K" tvg-logo="https://live.fanmingming.com/tv/VERAPORN 4K.png" group-title="直播",VERAPORN 4K
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12137/index.m3u8
+#EXTINF:-1 tvg-name="VERAPORN BIG TITS" tvg-logo="https://live.fanmingming.com/tv/VERAPORN BIG TITS.png" group-title="直播",VERAPORN BIG TITS
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12145/index.m3u8
+#EXTINF:-1 tvg-name="VERAPORN GROUP SEX1" tvg-logo="https://live.fanmingming.com/tv/VERAPORN GROUP SEX1.png" group-title="直播",VERAPORN GROUP SEX1
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12141/index.m3u8
+#EXTINF:-1 tvg-name="VERAPORN GROUP SEX2" tvg-logo="https://live.fanmingming.com/tv/VERAPORN GROUP SEX2.png" group-title="直播",VERAPORN GROUP SEX2
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12142/index.m3u8
+#EXTINF:-1 tvg-name="VF Cartoon 18+" tvg-logo="https://live.fanmingming.com/tv/VF Cartoon 18+.png" group-title="直播",VF Cartoon 18+
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/11117/index.m3u8
+#EXTINF:-1 tvg-name="Vintage" tvg-logo="https://live.fanmingming.com/tv/Vintage.png" group-title="直播",Vintage
+http://live.redtraffic.xyz/vintage.m3u8
+#EXTINF:-1 tvg-name="Visit-X TV" tvg-logo="https://live.fanmingming.com/tv/Visit-X TV.png" group-title="直播",Visit-X TV
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6263/index.m3u8
+#EXTINF:-1 tvg-name="VIVID RED" tvg-logo="https://live.fanmingming.com/tv/VIVID RED.png" group-title="直播",VIVID RED
+http://hostengine.live/live/Kellie/Snow/267033.m3u
+#EXTINF:-1 tvg-name="VIVID TV EUROPE" tvg-logo="https://live.fanmingming.com/tv/VIVID TV EUROPE.png" group-title="直播",VIVID TV EUROPE
+http://hostengine.live/live/Kellie/Snow/267013.m3u#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6264/index.m3u8
+#EXTINF:-1 tvg-name="Vixen HD" tvg-logo="https://live.fanmingming.com/tv/Vixen HD.png" group-title="直播",Vixen HD
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6265/index.m3u8
+#EXTINF:-1 tvg-name="WANKZONE 01" tvg-logo="https://live.fanmingming.com/tv/WANKZONE 01.png" group-title="直播",WANKZONE 01
+http://hostengine.live/live/Kellie/Snow/54707.m3u
+#EXTINF:-1 tvg-name="WANKZONE 02" tvg-logo="https://live.fanmingming.com/tv/WANKZONE 02.png" group-title="直播",WANKZONE 02
+http://hostengine.live/live/Kellie/Snow/54708.m3u
+#EXTINF:-1 tvg-name="WANKZONE 03" tvg-logo="https://live.fanmingming.com/tv/WANKZONE 03.png" group-title="直播",WANKZONE 03
+http://hostengine.live/live/Kellie/Snow/54597.m3u
+#EXTINF:-1 tvg-name="We Live Together" tvg-logo="https://live.fanmingming.com/tv/We Live Together.png" group-title="直播",We Live Together
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6266/index.m3u8
+#EXTINF:-1 tvg-name="White Boxxx" tvg-logo="https://live.fanmingming.com/tv/White Boxxx.png" group-title="直播",White Boxxx
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6267/index.m3u8
+#EXTINF:-1 tvg-name="White Girls" tvg-logo="https://live.fanmingming.com/tv/White Girls.png" group-title="直播",White Girls
+http://live.mycamtv.com/white.m3u8
+#EXTINF:-1 tvg-name="Wicked" tvg-logo="https://live.fanmingming.com/tv/Wicked.png" group-title="直播",Wicked
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6268/index.m3u8
+#EXTINF:-1 tvg-name="WOWGIRLS" tvg-logo="https://live.fanmingming.com/tv/WOWGIRLS.png" group-title="直播",WOWGIRLS
+http://hostengine.live/live/Kellie/Snow/253721.m3u
+#EXTINF:-1 tvg-name="X BIZARRE" tvg-logo="https://live.fanmingming.com/tv/X BIZARRE.png" group-title="直播",X BIZARRE
+http://hostengine.live/live/Kellie/Snow/267062.m3u
+#EXTINF:-1 tvg-name="X BUNGA BUNGA" tvg-logo="https://live.fanmingming.com/tv/X BUNGA BUNGA.png" group-title="直播",X BUNGA BUNGA
+http://hostengine.live/live/Kellie/Snow/267024.m3u
+#EXTINF:-1 tvg-name="X DESIRE" tvg-logo="https://live.fanmingming.com/tv/X DESIRE.png" group-title="直播",X DESIRE
+http://hostengine.live/live/Kellie/Snow/267028.m3u
+#EXTINF:-1 tvg-name="X1" tvg-logo="https://live.fanmingming.com/tv/X1.png" group-title="直播",X1
+http://hostengine.live/live/Kellie/Snow/267061.m3u
+#EXTINF:-1 tvg-name="X-MO" tvg-logo="https://live.fanmingming.com/tv/X-MO.png" group-title="直播",X-MO
+https://skywatch.club:8443/play/QAkHqYPACG3ZLU9YN1CimVJZbxNS5iKEzxq4DmSKAlA#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6285/index.m3u8
+#EXTINF:-1 tvg-name="Xpanded TV" tvg-logo="https://live.fanmingming.com/tv/Xpanded TV.png" group-title="直播",Xpanded TV
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6269/index.m3u8
+#EXTINF:-1 tvg-name="XXL" tvg-logo="https://live.fanmingming.com/tv/XXL.png" group-title="直播",XXL
+https://cdn-main.lolokoko.tv/xxl.stream/chunks.m3u8#http://hostengine.live/live/Kellie/Snow/267048.m3u
+#EXTINF:-1 tvg-name="XXX Love\'s Berry HD" tvg-logo="https://live.fanmingming.com/tv/XXX Love\'s Berry HD.png" group-title="直播",XXX Love\'s Berry HD
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/14140/index.m3u8
+#EXTINF:-1 tvg-name="XXXINTERRACIAL TV" tvg-logo="https://live.fanmingming.com/tv/XXXINTERRACIAL TV.png" group-title="直播",XXXINTERRACIAL TV
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12171/index.m3u8
+#EXTINF:-1 tvg-name="XY Max HD" tvg-logo="https://live.fanmingming.com/tv/XY Max HD.png" group-title="直播",XY Max HD
+http://hostengine.live/live/Kellie/Snow/267039.m3u#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6286/index.m3u8
+#EXTINF:-1 tvg-name="XY Mix HD" tvg-logo="https://live.fanmingming.com/tv/XY Mix HD.png" group-title="直播",XY Mix HD
+http://hostengine.live/live/Kellie/Snow/267026.m3u#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6287/index.m3u8
+#EXTINF:-1 tvg-name="XY Plus 1" tvg-logo="https://live.fanmingming.com/tv/XY Plus 1.png" group-title="直播",XY Plus 1
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12115/index.m3u8
+#EXTINF:-1 tvg-name="XY Plus 12" tvg-logo="https://live.fanmingming.com/tv/XY Plus 12.png" group-title="直播",XY Plus 12
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12118/index.m3u8
+#EXTINF:-1 tvg-name="XY Plus 2" tvg-logo="https://live.fanmingming.com/tv/XY Plus 2.png" group-title="直播",XY Plus 2
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12116/index.m3u8
+#EXTINF:-1 tvg-name="XY Plus 24" tvg-logo="https://live.fanmingming.com/tv/XY Plus 24.png" group-title="直播",XY Plus 24
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12119/index.m3u8
+#EXTINF:-1 tvg-name="XY Plus 6" tvg-logo="https://live.fanmingming.com/tv/XY Plus 6.png" group-title="直播",XY Plus 6
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12117/index.m3u8
+#EXTINF:-1 tvg-name="XY Plus HD" tvg-logo="https://live.fanmingming.com/tv/XY Plus HD.png" group-title="直播",XY Plus HD
+http://hostengine.live/live/Kellie/Snow/267016.m3u#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6288/index.m3u8
+#EXTINF:-1 tvg-name="Yosso TV Sexy" tvg-logo="https://live.fanmingming.com/tv/Yosso TV Sexy.png" group-title="直播",Yosso TV Sexy
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/14176/index.m3u8
+#EXTINF:-1 tvg-name="YOUNG FANTASIES" tvg-logo="https://live.fanmingming.com/tv/YOUNG FANTASIES.png" group-title="直播",YOUNG FANTASIES
+http://hostengine.live/live/Kellie/Snow/253722.m3u
+#EXTINF:-1 tvg-name="YOUNG Girls" tvg-logo="https://live.fanmingming.com/tv/YOUNG Girls.png" group-title="直播",YOUNG Girls
+http://live.mycamtv.com/young.m3u8
+#EXTINF:-1 tvg-name="Zoom TV" tvg-logo="https://live.fanmingming.com/tv/Zoom TV.png" group-title="直播",Zoom TV
+http://178.219.128.68:64889//ZOOMTVHD
+#EXTINF:-1 tvg-name="Кино 18 + HD" tvg-logo="https://live.fanmingming.com/tv/Кино 18 + HD.png" group-title="直播",Кино 18 + HD
+http://3b9673b8.cbilant.com/iptv/72ADL97PMPSR6F/18075/index.m3u8#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/18075/index.m3u8
+#EXTINF:-1 tvg-name="Кино 18+ International" tvg-logo="https://live.fanmingming.com/tv/Кино 18+ International.png" group-title="直播",Кино 18+ International
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/18076/index.m3u8
+#EXTINF:-1 tvg-name="Русская Ночь orig" tvg-logo="https://live.fanmingming.com/tv/Русская Ночь orig.png" group-title="直播",Русская Ночь orig
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/9344/index.m3u8
+#EXTINF:-1 tvg-name="ШAΛYH HD" tvg-logo="https://live.fanmingming.com/tv/ШAΛYH HD.png" group-title="直播",ШAΛYH HD
+http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:D1:47&stream=773974&extension=ts&play_token=VFnUEDgvPl
